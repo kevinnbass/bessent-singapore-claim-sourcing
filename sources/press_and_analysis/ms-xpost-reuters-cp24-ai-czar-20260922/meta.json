@@ -1,0 +1,12 @@
+{
+ "id": "ms-xpost-reuters-cp24-ai-czar-20260922",
+ "address": "https://www.cp24.com/news/world/2026/09/22/us-treasury-secretary-could-take-on-ai-czar-role-source-tell-reuters/",
+ "fetched_utc": "2026-11-19T00:14:52Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 123980,
+ "sha256": "53059775422b110e1d4aa3ee8d992a2a6be6177ebf29fb2fe065dae727fd38dc",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "582095cf0d16135b30feed1c6c5bdbf34e31b5b91da5435ba73ab168710bf8c7",
+ "files_in_this_folder": []
+}

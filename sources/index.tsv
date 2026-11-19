@@ -11,40 +11,54 @@ man-ms-sec-10k-fy2025	documents	reference [18]; figure document 6	text.txt saved
 man-ms-nvda-sg-mainanswer-20250218-b15726	documents	reference [19]	text.txt saved_copy.pdf
 man-ms-law-singapore-unilateral-520ebb	documents	reference [20]	text.txt saved_copy.pdf
 ms-sgwhy-iras-corporate-tax-rate	documents	reference [21]	text.txt body.html
-ms-sgwhy-au-senate-hansard-20150408-mirror-pdf	documents	reference [22]	text.txt body.pdf
-ms-sgwhy-iras-centralised-activities-guide-pdf	documents	reference [23]	text.txt body.pdf
-ms-p3-nvda-10q-2024-07-pdf	documents	reference [24]; figure document 4	text.txt body.pdf
-man-08b0429539bf	press_and_analysis	reference [25]	
-art-epoch-1115-bessent-outside-ceo	press_and_analysis	reference [26]	
-ms-sg2-dec2023-c48a33	press_and_analysis	reference [27]	
-ms-p3-nvda-10q-2023-10-pdf	documents	reference [28]; figure document 2	text.txt body.pdf
-ms-sgp-20231201-cnbc-tiny-country	press_and_analysis	reference [29]	
-ms-sg2-dec2023-720aa2	press_and_analysis	reference [30]	
-ms-sg2-y2024-b374ab	press_and_analysis	reference [32]	
-ms-law-oct2022-8dfc86	documents	reference [33]; figure document 21	text.txt body.pdf
-art-own-importai-397-deepseek-proliferation	press_and_analysis	reference [34]	
-man-ms-sgp-20250131-theedge-bloomberg-probe	press_and_analysis	reference [35]	
-ms-sgp-20250129-house-letter-nsc-pdf	documents	reference [36]	text.txt body.pdf
-man-ms-nvda-singapore-20250129-3564d6	press_and_analysis	reference [37]	
-ms-sg2-deepseekasia-679f1b	press_and_analysis	reference [38]	
-ms-nvda-toms-onepercent-20250218-dd44d6	press_and_analysis	reference [39]	
-ms-sgp-20250416-house-deepseek-report-pdf	documents	reference [40]	text.txt body.pdf
-ms-sg2-nvidiaown-fc242a	documents	reference [41]	text.txt body.json
-ms-sgp-nvda-q1fy26-call-transcript-pdf	documents	reference [42]	
-ms-sgp-nvda-q2fy26-call-transcript-pdf	documents	reference [43]	
-man-ms-sg2-nvidiaown-7fda29	press_and_analysis	reference [44]	
-man-a45550a35921	press_and_analysis	reference [58]	
-man-910cb6ed67c8	press_and_analysis	reference [59]	
-sw-techcrunchcom-04	press_and_analysis	reference [60]	
-art-register-overwatch	press_and_analysis	reference [61]	
-ms-gap-block-substrate-links-ee6d28	press_and_analysis	reference [62]	
-ms-relay-techcrunch-1113	press_and_analysis	reference [63]	
-ct-ifp-how-to-increase-lead	press_and_analysis	reference [64]	
-man-ms-sec-10q-2026-07	documents	reference [65]; figure document 12	text.txt saved_copy.pdf
-man-e2596eab15f4	press_and_analysis	reference [66]	
-man-5f3922d71bf0	press_and_analysis	reference [67]	
-man-reuters-1111-06	press_and_analysis	reference [68]	
-man-e8a4f78b0d7e	press_and_analysis	reference [69]	
+ms-xpost-edb-imd-2026	press_and_analysis	reference [22]	
+ms-sgwhy-au-senate-hansard-20150408-mirror-pdf	documents	reference [23]	text.txt body.pdf
+ms-sgwhy-iras-centralised-activities-guide-pdf	documents	reference [24]	text.txt body.pdf
+ms-p3-nvda-10q-2024-07-pdf	documents	reference [25]; figure document 4	text.txt body.pdf
+man-08b0429539bf	press_and_analysis	reference [26]	
+art-epoch-1115-bessent-outside-ceo	press_and_analysis	reference [27]	
+ms-sg2-dec2023-c48a33	press_and_analysis	reference [28]	
+ms-p3-nvda-10q-2023-10-pdf	documents	reference [29]; figure document 2	text.txt body.pdf
+ms-sgp-20231201-cnbc-tiny-country	press_and_analysis	reference [30]	
+ms-sg2-dec2023-720aa2	press_and_analysis	reference [31]	
+ms-sg2-y2024-b374ab	press_and_analysis	reference [33]	
+ms-law-oct2022-8dfc86	documents	reference [34]; figure document 21	text.txt body.pdf
+art-own-importai-397-deepseek-proliferation	press_and_analysis	reference [35]	
+man-ms-sgp-20250131-theedge-bloomberg-probe	press_and_analysis	reference [36]	
+ms-sgp-20250129-house-letter-nsc-pdf	documents	reference [37]	text.txt body.pdf
+man-ms-nvda-singapore-20250129-3564d6	press_and_analysis	reference [38]	
+ms-sg2-deepseekasia-679f1b	press_and_analysis	reference [39]	
+ms-nvda-toms-onepercent-20250218-dd44d6	press_and_analysis	reference [40]	
+ms-sgp-20250416-house-deepseek-report-pdf	documents	reference [41]	text.txt body.pdf
+ms-sg2-nvidiaown-fc242a	documents	reference [42]	text.txt body.json
+ms-sgp-nvda-q1fy26-call-transcript-pdf	documents	reference [43]	
+ms-sgp-nvda-q2fy26-call-transcript-pdf	documents	reference [44]	
+man-ms-sg2-nvidiaown-7fda29	press_and_analysis	reference [45]	
+man-a45550a35921	press_and_analysis	reference [59]	
+man-910cb6ed67c8	press_and_analysis	reference [60]	
+ms-xpost-pew-ai-partisan-20260916	press_and_analysis	reference [61]	
+ms-xpost-yahoo-anthropic-valuation-20260529	press_and_analysis	reference [62]	
+ms-xpost-transformer-anthropic-philanthropy-20260312	press_and_analysis	reference [63]	
+ms-xpost-nyt-inquirer-ai-midterm-spending-20261002	press_and_analysis	reference [64]	
+ms-xpost-semafor-amodei-20260121	press_and_analysis	reference [65]	
+sw-techcrunchcom-04	press_and_analysis	reference [66]	
+art-register-overwatch	press_and_analysis	reference [67]	
+ms-gap-block-substrate-links-ee6d28	press_and_analysis	reference [68]	
+ms-relay-techcrunch-1113	press_and_analysis	reference [69]	
+ct-ifp-how-to-increase-lead	press_and_analysis	reference [70]	
+ms-xpost-officechai-epoch-compute-share-20261028	press_and_analysis	reference [71]	
+ms-xpost-x-gavinbaker-2121767631124570302	press_and_analysis	reference [72]	
+man-ms-sec-10q-2026-07	documents	reference [73]; figure document 12	text.txt saved_copy.pdf
+man-e2596eab15f4	press_and_analysis	reference [74]	
+ms-xpost-reuters-standard-h200-customs-20260114	press_and_analysis	reference [75]	
+ms-xpost-politico-yahoo-bessent-lead-20250507	press_and_analysis	reference [76]	
+ms-xpost-reuters-tribune-ai-talks-20260920	press_and_analysis	reference [77]	
+ms-xpost-reuters-cp24-ai-czar-20260922	press_and_analysis	reference [78]	
+ms-xpost-kuwaittimes-not-ai-czar-20260926	press_and_analysis	reference [79]	
+man-5f3922d71bf0	press_and_analysis	reference [80]	
+man-reuters-1111-06	press_and_analysis	reference [81]	
+ms-xpost-bloomberglaw-finra-watchdog-20260717	press_and_analysis	reference [82]	
+man-e8a4f78b0d7e	press_and_analysis	reference [83]	
 ms-p3-nvda-10q-2023-04-pdf	documents	figure document 1	text.txt body.pdf
 man-ms-sec-10k-fy2026	documents	figure document 10	text.txt saved_copy.pdf
 man-ms-sec-10q-2026-04	documents	figure document 11	text.txt saved_copy.pdf

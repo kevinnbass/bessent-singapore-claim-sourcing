@@ -1,0 +1,12 @@
+{
+ "id": "ms-xpost-nyt-inquirer-ai-midterm-spending-20261002",
+ "address": "https://inquirer.com/news/nation-world/artificial-intelligence-companies-midterm-spending-20261002.html",
+ "fetched_utc": "2026-11-19T00:14:54Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 1072115,
+ "sha256": "f0985b57cf9c8b1ec77d7a0b9412e4afbf489d65388c076ce1b5d24b66484be4",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "97a2c0113b91dbd001199647121f1d3b3744feedd6f55708c100f837b76bf63a",
+ "files_in_this_folder": []
+}

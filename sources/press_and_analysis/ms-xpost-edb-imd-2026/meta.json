@@ -1,0 +1,12 @@
+{
+ "id": "ms-xpost-edb-imd-2026",
+ "address": "https://www.edb.gov.sg/en/about-edb/media-releases-publications/strong-institutions-drive-2026-imd-competitiveness-rankings.html",
+ "fetched_utc": "2026-11-19T00:14:54Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 106332,
+ "sha256": "7abb0ce76c89e9935438230a845fa7baae05bb00349686de405b33a1e1776f49",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "f0f25e427c391d6e6fbc8a55d3779da86c4991ddf2ec4d255494cda88587c0f8",
+ "files_in_this_folder": []
+}

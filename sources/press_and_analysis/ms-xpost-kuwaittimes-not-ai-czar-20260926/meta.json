@@ -1,0 +1,12 @@
+{
+ "id": "ms-xpost-kuwaittimes-not-ai-czar-20260926",
+ "address": "https://kuwaittimes.com/article/50437/business/trump-treasurys-bessent-will-not-be-his-ai-czar/",
+ "fetched_utc": "2026-11-19T00:14:52Z",
+ "status": 200,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 245031,
+ "sha256": "14bb4badc6ef7e44ea03cf7ea5d4e00ba3b0a586e3ea0eac22e7df4ad48d98cf",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "c8d5b8ba0979bc8031764045ca2465df21cda54c1f8632b0062aec45aac60d2d",
+ "files_in_this_folder": []
+}

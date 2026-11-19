@@ -1,0 +1,12 @@
+{
+ "id": "ms-xpost-pew-ai-partisan-20260916",
+ "address": "https://www.pewresearch.org/short-reads/2026/09/16/democrats-are-now-more-worried-than-republicans-about-ai-and-its-impact-on-jobs/",
+ "fetched_utc": "2026-11-19T00:14:54Z",
+ "status": 200,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 445031,
+ "sha256": "c56a1c1b54c24e319c013ed9ab665ba2024ae70f2ee0e25d362121bc64c00f0d",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "25d4907bb04a45ebe5ab62915b77ddd782f9410a05aac402f0ef9c962e813272",
+ "files_in_this_folder": []
+}

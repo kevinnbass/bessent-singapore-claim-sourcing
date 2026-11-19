@@ -1,0 +1,12 @@
+{
+ "id": "ms-xpost-reuters-standard-h200-customs-20260114",
+ "address": "https://www.thestandard.com.hk/china/article/321575/Chinas-customs-agents-told-Nvidias-H200-chips-are-not-permitted-sources-say",
+ "fetched_utc": "2026-11-19T00:14:55Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 119918,
+ "sha256": "b87de9c35a109026e24ce7c3fa9ad1a469b4592c339afdcb8be370fcfc928057",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "af10d52cf569e028e9c5e89506502c4b7c660eb45bc9f6ffda2880ba60c6d06c",
+ "files_in_this_folder": []
+}

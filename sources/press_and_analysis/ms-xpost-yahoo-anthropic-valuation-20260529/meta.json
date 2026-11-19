@@ -1,0 +1,12 @@
+{
+ "id": "ms-xpost-yahoo-anthropic-valuation-20260529",
+ "address": "https://finance.yahoo.com/markets/article/anthropic-more-valuable-than-openai-in-latest-funding-round-184115376.html",
+ "fetched_utc": "2026-11-19T00:14:53Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 938140,
+ "sha256": "33d799cf34dda05cece8eb13fe1ba86e8eb49ec69672f35e89ff4b64ac59e436",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "5035bc1f932c71614b62df264808747b9a3e3769b047d0aecfa67c1a2e8a0490",
+ "files_in_this_folder": []
+}
