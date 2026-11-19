@@ -1,0 +1,12 @@
+{
+ "id": "ms-sg2-dec2023-c48a33",
+ "address": "https://www.theregister.com/on-prem/2023/11/22/nvidia-revenue-explodes-led-by-datacenter-products/577496",
+ "fetched_utc": "2026-11-18T05:59:55Z",
+ "status": 200,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 180882,
+ "sha256": "84a6b68d6aca301e84ccc1f5e8657ab9e54014f655a016bb96fd1420cfab7f23",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "1bc62b5924381eac255944863dbfb7caba52ca87f3b76c5b42db02635fa94dfc",
+ "files_in_this_folder": []
+}

@@ -1,0 +1,12 @@
+{
+ "id": "art-register-overwatch",
+ "address": "https://www.theregister.com/2026/01/21/house_gop_ai_chip_exports_trump_china_nvidia/",
+ "fetched_utc": "2026-11-13T23:19:22Z",
+ "status": 200,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 180241,
+ "sha256": "e9fd664fc5bda44466a8e6bbd914bc3cd52a03a03fe43ec8a2b9e85d65908cc7",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "56a081a20093b75f9fe099f43db1417379db95e4aa0385e7eef49b9fb9682a51",
+ "files_in_this_folder": []
+}

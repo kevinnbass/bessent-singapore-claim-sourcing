@@ -1,0 +1,382 @@
+Here's another clip. Let's go through it forensically, with references.
+
+Secretary Bessent is a goober. He and leading advocates for AI chip restrictions do not understand the most basic facts of the subject on which they purport to be experts.
+
+Read this post and tell me that I am wrong. I am shocked. You will be too.
+
+Bessent suggests that Nvidia relabeled sales to China as sales to Singapore and the evidence was hidden from the public.
+
+He also goes on to imply that 99% of chips delivered to Singapore were smuggled into China.
+
+But these claims are crazy and rely on a misunderstanding of the facts.
+
+I will go through the facts. At the end, we will see where the uncertainty really is. It isn't where Bessent says.
+
+The transcript, Bessent's words:
+
+"And you can see from the Nvidia accounts — which they stopped publishing, by the way, they stopped publishing — their Chinese sales crashed, and then the Singaporean sales went through the roof. And I've seen reporting that only 1% of the chips sold in Singapore remained in Singapore."
+
+We will go through it slightly out of order.
+
+1. "their Chinese sales crashed and then the Singaporean sales went through the roof."
+
+Context:
+
+Nvidia's quarterly report says: "In April 2025, the U.S. government informed us that a license is required for exports of our H20 product into the China market."
+
+Now, the H20 license requirement came on April 9, 2025. In 2024, H200s were the state-of-the-art Nvidia chip. H20s were modified versions of H200s for sale in China, about 6-7-times less powerful. And they were banned for sale to China in April 9, 2025.
+
+Take a look at the figure. It is a compilation of twenty-two SEC and BIS filings and press releases.
+
+You can see the fall in sales to China from $5.5b in Apr 27, 2025 to $2.8b in Jul 27, 2025 when the H20s were banned. China was buying lots of H20s, and Nvidia then stopped selling them.
+
+Nvidia's China sales crashed because they were following what the administration told them to do. They were following the rules.
+
+Now, let's test the idea that, after China revenues fell, Singapore revenues "went through the roof", insinuating that chips were brazenly smuggled through Singapore to China to make up the shortfall and made blatantly obvious in Nvidia's financial documents.
+
+This is an outrageous thesis, based on a complete misunderstanding.
+
+The figure shows that Singapore's revenues had been steadily increasing up for two years. There was no increase "through the roof" at the Jul 27, 2025 time point.
+
+The Jul 27, 2025 $10.2 billion line is the last Singapore entry we have for reasons we will see in a moment.
+
+So, Bessent says that "their Chinese sales crashed and then the Singaporean sales went through the roof".
+
+The implication is that chips were being rerouted from China via Singapore.
+
+Yet as we have seen, the gradual increase in Singapore's sales *preceded* the China crash.
+
+Bessent got the story reversed, which rules out the causal connection he stated.
+
+Nvidia also wasn't the only company with big revenues invoiced to Singapore.
+
+AMD had them too. Intel has had revenues matching those of Nvidia for decades. Taiwanese chip foundry UMC's Singapore revenues are also large -- though the conversion rate of that currency to USD is at roughly NT$30 to USD. Seagate has also had respectable Singapore revenue.
+
+Intel revenue by customer billing address, $ billions, fiscal year:
+        China   Singapore
+2023    14.9      8.6
+2024    15.5     10.2
+2025    12.7      9.5
+
+AMD revenue by customer billing address, $ billions, fiscal year:
+        China   Singapore
+2023     3.4      2.2
+2024     6.2      3.6
+2025     7.8      4.3
+(China includes Hong Kong.)
+
+UMC revenue, NT$ billions, calendar year:
+        Singapore    China    United States
+2020      26.1       22.6        24.5
+2021      29.1       31.2        24.3
+2022      39.1       46.1        35.2
+(China includes Hong Kong.)
+
+Seagate revenue by bill-from location, $ billions,
+fiscal year (ends about June 30):
+          Singapore   United States
+2023        3.3           3.1
+2024        3.4           2.3
+2025        3.8           4.4
+(No China row.)
+
+For reference, here is Nvidia, this time by year, not quarter.
+
+Nvidia revenue by customer billing address, $ billions:
+                               China   Singapore
+Year to Jan 29, 2023            5.8      2.3
+Year to Jan 28, 2024           10.3      6.8
+Year to Jan 26, 2025           17.1     23.7
+Six months to Jul 27, 2025      8.3     19.2
+
+Are Intel and AMD smuggling too? UMC? Seagate?
+
+Is everyone smuggling through Singapore?
+
+No. That is not how it works.
+
+2. "I've seen reporting that only 1% of the chips sold in Singapore remained in Singapore."
+
+This statement is so demonstrably and maddeningly wrong that it may have provoked the very financial reporting behavior that Bessent claims implicates Nvidia in having committed crimes.
+
+Likewise, Nvidia may have been so frustrated with the stupidity of people saying this that they may have changed their reporting to get them to stop.
+
+Bessent's statement also explains where he is getting his information: not from his own analysis or analysts, but from the press.
+
+"I've seen reporting".
+
+The reporting Bessent saw was so misleading that even the Singapore parliament was forced to address it.
+
+Second Minister for Trade and Industry Dr. Tan See Leng told Singapore's parliament:
+
+"Our checks indicate that physical delivery of products sold by Nvidia to Singapore represent less than 1% of Nvidiaʼs overall revenue. These are mainly deployed in Singapore for major enterprises and the Singapore government. We understand that the remainder of Nvidiaʼs revenue billed to business entities in Singapore did not involve physical shipments into Singapore."
+
+You know how when you purchase items online, you enter a billing address and a mailing address?
+
+It's like that.
+
+Minister Tan See Leng told parliament:
+
+"It is common practice for global entities to centralise the billing for procured goods and services in their hubs, but this is separate from where the products are shipped to."
+
+Singapore is a trade hub, one of the major reasons being the low tax rate and costs of doing business.
+
+Many non-Chinese companies invoice through Singapore.
+
+Companies set up offices in Singapore, and they invoice purchases through those offices.
+
+The vast majority of entities placing invoices from Singapore billing addresses to Nvidia did not receive those shipments into Singapore -- but elsewhere.
+
+This is normal.
+
+U.S. Treasure Secretary Bessent should know this. It's a basic fact of international trade.
+
+Anyway, where did Nvidia send its chips, if not Singapore?
+
+Bessent would know if he had read Nvidia's SEC filings.
+
+SEC 10-Q, quarter to Apr 28, 2024, filed May 29, 2024:
+
+"Most of the shipments associated with Singapore revenue went to either the United States or Taiwan in the first quarter of fiscal year 2025. Shipments to Singapore were insignificant."
+
+SEC 10-Q, quarter to Jul 28, 2024, filed Aug 28, 2024:
+
+"Most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant."
+
+SEC 10-Q, quarter to Oct 27, 2024, filed Nov 20, 2024:
+
+"Most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant."
+
+SEC 10-K, fiscal year to Jan 26, 2025, filed Feb 26, 2025:
+
+"Singapore represented 18% of fiscal year 2025 total revenue based upon customer billing location. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Shipments to Singapore were less than 2% of fiscal year 2025 total revenue."
+
+SEC 10-Q, quarter to Apr 27, 2025, filed May 28, 2025:
+
+"Singapore represented 20% of the first quarter of fiscal year 2026 total revenue based upon customer billing location. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Over 99% of controlled Data Center compute revenue billed to Singapore was for orders from U.S.-based customers."
+
+SEC 10-Q, quarter to Jul 27, 2025, filed Aug 27, 2025:
+
+"Singapore represented 22%, and 21% of the second quarter and first half of fiscal year 2026 total revenue based upon customer billing location, respectively. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Over 99% of controlled Data Center compute revenue billed to Singapore was for orders from U.S.-based customers for the second quarter and first half of fiscal year 2026."
+
+I am not saying that Nvidia is telling the truth in these financial statements.
+
+I cannot assess that with the information I have.
+
+What I can say with confidence that Bessent is ignorant about what they say and is clearly basing his opinion on wrong second-hand "reporting".
+
+Now, what we just saw was an excerpt from a filing from Aug 27, 2025.
+
+But it was on Nov 19, 2025 that Nvidia, as Bessent says, "stopped publishing, by the way, they stopped publishing [sic]" the Singapore figures, using that fact to insinuate that Nvidia was withholding critical information from officials in public documents.
+
+But that is not what happened. As with almost everything else, Bessent is confused at best.
+
+3. "And you can see from the Nvidia accounts — which they stopped publishing, by the way, they stopped publishing"
+
+This is the best part of Bessent's interview.
+
+If this were true -- if Nvidia withhold clear evidence of smuggling -- none would be more responsible for it than current interim CEO Colette Kress, who signed and swore to the accuracy of the documents.
+
+This is the woman who Bessent says he does not want Jensen Huang to replace, because he is guilty of bad things. Except she would be the one who is guilty.
+
+If Bessent were right, this would be very inconvenient for him. Fortunately for Kress, he is not.
+
+We should understand what "reporting" Bessent is reading, which forced the Singapore parliament to respond, as we discussed earlier. It is critical context.
+
+The misinformation had started by November 22, 2023, the day after Nvidia had filed a quarterly report, in The Register:
+
+"Revenue from the tiny city state of Singapore grew even faster – from $562 million in 2022 to $2.7 billion in 2023."
+
+A headline on December 1, 2023 in CNBC amplified it:
+
+"One tiny country drove 15% of Nvidia's revenue – here's why it needs so many chips"
+
+After the CNBC story, Nvidia met with Singapore reporters and answered in just 5 days:
+
+"Nvidia clarified that such country revenue figures may not reflect actual shipments."
+
+From November 2023 to March 2024, I count at least 27 stories, 19 of them a misread of the filing, 4 misread with a caveat on the page, and 2 reported correctly.
+
+Then we get this gem from a think tank in December 2024:
+
+"Nvidia's reported revenue from Singapore exploded in the wake of the U.S. export controls".
+
+(The think tank picked its starting point: counted from the last quarter before the October 2022 controls, Singapore's billings grew 7.9-fold by late 2024, and America's grew 7.4-fold. It then wonders whether Singapore has the electricity to run "all of the purchased chips", six months after Nvidia's filing said shipments to Singapore were insignificant.)
+
+Then there was a lull before the story exploded again in early 2025 when China's DeepSeek's first reasoning model R1 made waves.
+
+The journalist class was trying to understand how such an advanced model -- competitive at the time with OpenAI's groundbreaking o1 model -- was possible.
+
+The stories exploded.
+
+I found 73 stories about Singapore's numbers from January 20 to March 2025 alone.
+
+Yet even at that point, only half of the stories reported the filing correctly. The other half either ran the misleading headline with a correction or continued the full misreporting.
+
+Bloomberg reported US officials asking whether DeepSeek had "bought advanced Nvidia semiconductors through third parties in Singapore".
+
+House committee leaders wrote to the National Security Council on January 29: "Singapore represented 22% of Nvidia's revenue... Countries like Singapore should be subject to strict licensing requirements".
+
+Yes, that's House committee leaders. The confusion was running through Congress.
+
+Nvidia responded, again, on January 29, 2025: "Our public filings report 'bill to' not 'ship to' locations of our customers."
+
+But it did not matter. No matter how many times Nvidia said it, it did not matter.
+
+The seed was planted, and it would keep growing into a big, big tree.
+
+Singapore's main paper even participated, saying that the 22% "makes the Republic the biggest buyer of its chips after the US".
+
+After the minister's answer in parliament, a trade site's headline ran: "Nvidia's Singapore GPU sales are 28% of its revenue, but only 1% are delivered to the country".
+
+Singapore's ministers in parliament. Remember them?
+
+February 18, 2025: "This reflects the location where Nvidia's customers received the bill; it does not mean that it was shipped here".
+
+I found 33 stories from April 2025 to August 2025, with similar numbers.
+
+And it continued to penetrate U.S. Congress, whipping up a hysteria.
+
+Another House committee report published April 16, 2025, said Nvidia's filings "indicate that Singapore is the destination for a significant portion of its sales".
+
+In that report, under a chart of the two shares, are the words: "Following the imposition of U.S. export controls on certain Nvidia chips, this trend flips."
+
+That is roughly what Bessent said. But it's not true. Look at the figure in the video again.
+
+Nvidia on X, April 16, 2025: "Our reported Singapore revenue indicates the billing address".
+
+Nvidia's finance chief -- yes, Colette Kress who just replaced Huang as interim CEO -- on the May and August 2025 earnings calls, raising it unprompted both times.
+
+Nvidia, at this point no doubt exhausted, told Benzinga on April 21: "The bill-to versus ship-to Singapore matter has been reported extensively."
+
+It was fake news.
+
+But it reached Congress. It reached Bessent. It shaped the discussion because sharers just read the headline and ran with it.
+
+So what does Nvidia do?
+
+It switched its revenue numbers from being based on where the company billed to where the company was headquartered on its SEC 10-Q form.
+
+Here is the explanation it gave.
+
+SEC 10-Q, quarter to Oct 26, 2025, filed Nov 19, 2025:
+
+"Previously, revenue by geographic area was reported based on the billing location of our customers, which often reflected a customer's centralized invoicing location, even though our products were almost always shipped elsewhere. We believe changing to revenue based upon the location of our customers' headquarters provides a better representation of the geographic profile of our revenue. Prior period information has been recast to reflect this change."
+
+This eliminated the Singapore line in the table, since few companies placing orders with Nvidia were headquartered in Singapore.
+
+My inference? Nvidia said something like, "We have been doing this for two years. They keep accusing us of shipping everything to Singapore. It never ends, even though we've explained it a million times. Let's just list the headquarters are the country for revenue."
+
+The new table looks like this:
+
+Nvidia revenue by billing address (through Jul 27, 2025) and customer headquarters (Oct 26, 2025 onward), $ billions, quarter ended:
+              China   Singapore
+Apr 30, 2023   1.6      0.8
+Jul 30, 2023   2.7      1.0
+Oct 29, 2023   4.0      2.7
+Jan 28, 2024   1.9*     2.3*
+Apr 28, 2024   2.5      4.0
+Jul 28, 2024   3.7      5.6
+Oct 27, 2024   5.4      7.7
+Jan 26, 2025   5.5*     6.3*
+Apr 27, 2025   5.5      9.0
+Jul 27, 2025   2.8     10.2
+Oct 26, 2025   3.0    not listed
+Jan 25, 2026   3.1*   not listed
+Apr 26, 2026   4.6    not listed
+Jul 26, 2026   7.9    not listed
+Oct 25, 2026  11.1    not listed
+*My subtraction of the nine-month total from the full-year total.
+
+What Nvidia did -- changing how it tracked revenue -- is not uncommon among tech companies.
+
+Here is Amkor, a semiconductor packaging and testing company, doing it in 2016.
+
+Amkor net sales, $ billions, calendar year:
+        Singapore    United States
+2010      0.64          0.89
+2011      0.54          1.09
+2012      0.45          1.14
+2013      0.50          1.21
+2014      0.43          1.13
+2015      0.45          0.91
+2016    not listed      1.62   (by customer headquarters)
+
+And here is UMC, a Taiwanese chip foundry, doing almost the same exact thing as Nvidia did, at almost the same time, with a much higher Singapore revenue.
+
+UMC revenue, NT$ billions, calendar year:
+        Singapore    China    United States
+2015      18.3       11.7        12.8
+2016      26.8       13.7        13.7
+2017      30.8       19.0        18.2
+2018      24.8       18.5        23.6
+2019      24.0       19.1        20.0
+2020      26.1       22.6        24.5
+2021      29.1       31.2        24.3
+2022      39.1       46.1        35.2
+2023    not listed   27.5        59.1   (by customer headquarters)
+(China includes Hong Kong.)
+
+Here are a bunch of other companies that did the same thing, though they were, as far as I am aware, not shipping through Singapore.
+
+Micron, $ billions:
+                                         China        United States
+Fiscal 2018, by ship-to location         17.4              3.6
+Fiscal 2019, by customer headquarters     5.2             12.5
+(China includes Hong Kong in both rows.)
+
+Texas Instruments, $ billions:
+                                         China        United States
+2021, by shipment destination            10.0              1.9
+2022, by end customers' headquarters      4.8              6.6
+
+Qorvo, $ billions:
+                                         China        United States
+Fiscal 2019, by "sold to" address        1.75             0.48
+Fiscal 2020, by customer headquarters    1.11             1.47
+
+Qualcomm, $ billions:
+                                         China        United States
+Fiscal 2023, by delivery location        22.4             1.3
+Fiscal 2024, by customer headquarters    17.8             9.7
+(China includes Hong Kong in both rows.)
+
+Furthermore, not only do we see a collapse in China revenue on Jul 27, 2025, when H20s were banned, but if you look at the corresponding China cell for any given row/date, you see a *higher* number.
+
+The composite figure shows a slightly *higher* China revenue after the reporting changed, not lower, as Bessent says.
+
+And what you can see is that the revenue being attributed to Singapore was re-attributed to other countries. Across the break the United States and Taiwan lines jump. Most of the Singapore revenue was re-attributed to the United States; Taiwan's rise is growth in the next quarter.
+
+And the Singapore numbers are still there. They're just in "Other". They are just miniscule.
+
+Conclusion
+
+Bessent accuses Nvidia of concealing their Singapore numbers to hide smuggling.
+
+What Bessent really reveals is that he is infected with the mind virus, or worse.
+
+A few things might explain this.
+
+1. The midterms were a catastrophic defeat to Republicans. The balance of power has shifted. Some so-called China hawks who want to undermine Trump's AI policy can now more easily do that. The Democrats are clearly emboldened. Similarly, Republicans are demoralized and legitimately afraid of Democrat lawfare. AI and Silicon Valley billionaires are unpopular with the populist base of both party wings. Republicans may be trying to "get ahead of the story" by scapegoating Jensen Huang. This is contemptible and cowardly. I do not know enough about Bessent specifically, but Republicans in DC are clearly drinking a new brand of koolaid.
+
+2. We should be clear about what "promoting closed models" means in the current context. It is not a neutral activity. Anthropic is the dominant American AI company, and the growing cash pile from the Anthropic nonprofit network increasingly dominates lobbying and nonprofit funding. "Promoting closed models" means promoting an increasingly influential radically progressive political and cultural influence in American life, in its most rapidly developing field. As Anthropic achieves greater success, its nonprofit network will achieve greater influence. It will displace the current legacy institutions with a broadly compatible "woke AI left".
+
+To me, there is no question that continued left-wing dominance in America's institutions in a bright red line; the Nvidia manufactured scandal, of which I am aware of no parallel, is confirmatory evidence for this opinion. Anthropic CEO Dario Amodei has compared China having advanced GPUs to North Korea obtaining nuclear weapons. I believe that allowing the left to renew itself through AI and continue to assert its cultural hegemony in American institutions is an even greater existential risk than this. I do not mean to suggest by this that we must choose the binary of closed and open source in America. I mean that I find the active promotion by right-wing elites of Anthropic's increasing dominance over American AI unconscionable. I believe that its values are fundamentally incompatible to the continued existence of American civilization.
+
+For non-ideological, strictly pragmatic GDP maximizers, this picture is still more baffling. Nvidia clearly drives more economic growth than Anthropic, yet the interests of the latter are superseding those of the former. This is not even in America's economic interests, much less its long-term civilizational ones.
+
+There are certain realities that we should acknowledge.
+
+3. Smuggling of GPUs into China seems to be happening. Current estimates indicate that about a quarter of China's compute may be due to smuggled GPUs. If this is true and large-scale GPU smuggling is taking place, it is not through the pathway Bessent claims. The more likely path is that the companies headquartered in Taiwan and the United States have Chinese connections, and the smuggling is happening that way and making people a lot of money. Some have suggested the forensic Blackwell fingerprints on Chinese models, suggesting that Blackwells are being trained on the best Nvidia CPUs. But cloud compute, to my awareness, cannot be ruled out to account for these fingerprints. Likewise, it has been said that Jensen Huang is aware of Blackwells in frontier Chinese labs. But it is ridiculous on its face to suggest that smuggling by a company of Nvidia's sophistication would be detectable through SEC filings alone.
+
+4. If large-scale GPU smuggling is really happening, it needs to be treated with discretion. This case is an ongoing public embarrassment. If the Bessent-Rubio faction did authorize the leak, the results have been catastrophic. The Democrats are coming, and they will investigate and exploit the Nvidia "scandal" for years to come.
+
+5. The question should be posed as to whether America is losing the compute race at current restrictions. Most estimates put America's compute advantage at at least five-fold higher than China's. This compute gap is growing. This makes the current hysteria all the more confusing; as Gavin Baker has pointed out, our current policy is working. Furthermore, it would seem strange to have bemoaned the past half-century of globalization and the loss of American industries to Chinese imports, only to actively restrict America's economic growth in the Chinese market. The Chinese seem to agree and are, with increasing aggressiveness, restricting Nvidia's legal chip imports in order to promote the growth of domestic Chinese chip production. There is thus a convergence of interests between the so-called China hawks and China, a development that those who advocate for an aggressive stance to export controls awkwardly ignore. Finally, I think it is reasonable to question that AI really is a national security asset on par with nuclear weapons, or even on par with any kind of military weaponry at all.
+
+Bessent is the lead negotiator with China on AI. He was nearly named the AI czar. He is one of the chief antagonists in the Rubio faction against Lutnick, trying to get stricter export controls. He wants to regulate AI companies the way banks are regulated.
+
+He just redirected the op -- which started first at Jensen Huang for allegedly sleeping with a spy (which we now know is almost certainly false), then for having more affairs, then for being a Very, Very Bad Person (who will force you to try the brisket) -- now for, on Bessent's insinuation, intentionally smuggling AI chips to China and trying to hide it inside Nvidia's financial statements.
+
+Not only did he fail to apologize for what was being done to Jensen Huang, he is continuing the mobbing by promoting yet another false narrative.
+
+The clip is only 21 seconds of the interview. I am not done.

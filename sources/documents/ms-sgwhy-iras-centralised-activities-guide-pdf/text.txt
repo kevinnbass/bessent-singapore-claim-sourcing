@@ -1,0 +1,1256 @@
+URL: https://iras.gov.sg/media/docs/default-source/e-tax/etaxguide---tp-for-headquarters-(19-mar-2021)-docx.pdf
+FETCHED: 2026-11-18T11:10:33Z
+STATUS: 200
+
+    IRAS e-Tax Guide
+ Transfer Pricing Guidelines
+        Special Topic –
+    Centralised Activities in
+Multinational Enterprise Groups
+       (Second Edition)
+Published by
+Inland Revenue Authority of Singapore
+
+
+
+
+Published on 30 Jan 2026
+
+First edition on 19 Mar 2021
+
+
+
+
+               Disclaimers: IRAS shall not be responsible or held accountable in any way for any damage, loss or
+               expense whatsoever, arising directly or indirectly from any inaccuracy or incompleteness in the
+               Contents of this e-Tax Guide, or errors or omissions in the transmission of the Contents. IRAS shall not
+               be responsible or held accountable in any way for any decision made or action taken by you or any
+               third party in reliance upon the Contents in this e-Tax Guide. Except where specific contents carry legal
+               force, this information aims to provide a better general understanding of taxpayers’ tax obligations
+               and is not intended to comprehensively address all possible tax issues that may arise. While every effort
+               has been made to ensure that this information is consistent with existing law and practice, should there
+               be any changes, IRAS reserves the right to vary its position accordingly.
+
+
+               © Inland Revenue Authority of Singapore
+
+               All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any
+               means, including photocopying and recording without the written permission of the copyright holder,
+               application for which should be addressed to the publisher. Such written permission must also be
+               obtained before any part of this publication is stored in a retrieval system of any nature.
+                                          Table of Contents
+                                                                                                            Page
+
+
+1       Aim ....................................................................................................... 1
+2       At a glance ........................................................................................... 1
+3       Glossary ............................................................................................... 2
+4       Headquarters ....................................................................................... 3
+5.      Why MNE groups centralise activities ............................................... 4
+6.      Headquarters in Singapore................................................................. 6
+8       HQs in practice .................................................................................. 18
+9       Transfer pricing documentation requirements ............................... 19
+10      Avoiding and resolving transfer pricing dispute ............................ 21
+Annex A - Case study of a regional HQ ..................................................... 23
+1     Aim
+
+1.1   This e-Tax Guide:
+
+      i.    Discusses the economic value contributions of centralised activities in
+            Singapore and their importance to a multinational enterprise (“MNE”)
+            group; and
+
+      ii.   Explains how to analyse such activities carried out in Singapore
+            between related parties, the factors that may affect the transfer price for
+            these activities and the transfer pricing methods that may be
+            appropriate. 1
+
+1.2   This e-Tax Guide is relevant to you if you are a business entity (including
+      branches) incorporated or registered in Singapore and have centralisation of
+      activities within your MNE group.
+
+2     At a glance
+
+2.1   Singapore is home to a large number of headquarters (“HQs”), including
+      those from the world’s leading companies. MNE groups looking to deepen
+      their presence in Asia may leverage Singapore as a home to centralise key
+      decision-making, management and coordination, build customer insights and
+      develop product and services strategies for local markets. In turn, Singapore-
+      based service providers have deepened capabilities and broadened their
+      networks to support business, innovation and talent needs of HQs.
+
+2.2   Within the context of MNE groups, there are many different transactions
+      among the various members in the group. A thorough examination of the
+      actual functions performed, assets used, and risks assumed in each specific
+      related party transaction is important in determining the arm’s length transfer
+      price.
+
+
+
+
+1     This e-Tax Guide should be read together with the IRAS e-Tax guide on Transfer Pricing
+      Guidelines.
+
+
+                                                                                           1
+3       Glossary
+
+3.1     Headquarters (“HQ”)
+        Centralised office location(s) where an MNE group’s management and key
+        staff operate and oversee business activities.
+
+3.2        Entrepreneur
+           Entity(ies) within an MNE group which:
+        i.       Performs significant functions to organise and operate the business;
+       ii.       Makes key business decisions; and
+      iii.       Controls and assumes significant risk and has the financial capacity to
+                 assume risk
+
+3.3     Centralised services
+        Activities centralised in the parent company or one or more group service
+        centres (such as a regional HQ) and made available to the group (or multiple
+        members thereof).
+
+
+
+
+                                                                                      2
+4     Headquarters
+
+4.1   The term “headquarters” is commonly used for tax, corporate planning and
+      corporate communications purposes. It is also commonly used to describe
+      entities in transfer pricing documentation. However, the use of the term alone
+      is not indicative of the actual functions, assets and risks profile of the HQ. In
+      practice, IRAS has encountered HQs with functional profiles ranging from a
+      service provider to an entrepreneur.
+
+4.2   In the same vein, the performance of centralised services alone does not
+      mean that an entity should be considered a HQ within the MNE group, as
+      there are other considerations such as the organisation structure and
+      strategic importance of the activities performed, relative to other parts of the
+      MNE group.
+
+4.3   For the purposes of this e-Tax Guide, the label HQ does not dictate the
+      transfer pricing analysis. The role of each HQ has to be considered on its
+      own facts and circumstances.
+
+
+
+
+                                                                                     3
+5.     Why MNE groups centralise activities 2
+
+5.1.   Centralising activities, either globally or regionally, allows the MNE group to
+       control, manage and consolidate business operations, processes and key
+       functions. By doing so, the MNE group may achieve core benefits, which are
+       listed as follows:
+
+       Directing overall business performance and aggregating specialised
+       knowledge
+
+5.2.   For the specific functions, the most qualified personnel among the group’s
+       employees (or those within the region in the case of regional HQ activities)
+       are brought together to perform the functions, make decisions or provide
+       guidance to all business units under its charge. These personnel have
+       effective oversight of the business units’ operations and decide on the
+       strategies and policies to be implemented across the relevant markets. They
+       are accountable for the overall performance of the group globally or in a
+       particular region.
+
+5.3.   Further, centralising subject matter experts in specialised HQ functions, such
+       as Finance, Marketing, Human Resources, Legal and Intellectual Property
+       (IP) management, aggregates domain expertise and talent. This allows the
+       MNE group to deepen functional excellence and increase its competitive
+       advantage.
+
+       Accelerating decision-making in response to market conditions
+
+5.4.   Centralising oversight of performance enables the group to be agile in its
+       decision-making processes in that relevant information is available to
+       centralised decision-makers so that they can collaborate, react and plan
+       quickly to capture commercial opportunities and mitigate challenges. This is
+       particularly important when the MNE group responds to changing market
+       conditions, pilots new initiatives or transforms their existing business models
+       and processes.
+
+       Achieving economies of scale and cost efficiencies
+
+5.5.   Entities within an MNE group often require common functions, such as
+       Finance, Marketing, Human Resources, Legal, IP management, Sourcing
+       and Procurement. Centralising these activities reduces duplication of
+       functions, coordination costs, inefficiencies and operating costs.
+
+5.6.   The streamlining of certain activities can also reap significant economies of
+       scale and value to the MNE group. Centralised procurement is one such
+       example. Typically, the HQ performing this function would have access to
+       information on market demands, orders, production schedules and excess
+
+2      Sections 5 and 6 are developed with the support of the Singapore Economic Development
+       Board (“EDB”).
+
+                                                                                          4
+      capacity across business units. With the information, it could optimise the
+      procurement of raw materials for the whole group or region by planning the
+      timing and quantity to procure, or by diverting materials and inventories within
+      the group. Bulk procurement may also offer the group greater bargaining
+      powers to negotiate for lower prices, access to a wider range of supplies and
+      faster delivery.
+
+      Driving consistency in branding, marketing and creative strategies and
+      capturing real-time market opportunities
+
+5.7   Where HQs oversee a region with diversity such as Asia, centralising
+      branding and marketing (B&M) enables ease of development, launch and
+      governance of regional marketing and sales strategies with a consistent
+      brand identity, as compared to multiple differentiated in-market strategies
+      which lead to dilution of corporate brand identity.
+
+5.8   As MNE groups progress from classical marketing to digital marketing,
+      centralising customer data and analytics enables regional executives and
+      decision makers to capitalise on sales and marketing opportunities in real
+      time, while evaluating market performance and competitor offerings. This
+      allows marketing efforts to be more targeted and better meet consumer
+      demand.
+
+5.9   Centralising B&M also enables quicker feedback to R&D and product
+      innovation teams, who will need to consider in-market nuances within their
+      regional markets. This allows MNE groups to sharpen product innovation and
+      design quickly for better market fit and sales results.
+
+      Proximity to markets
+
+5.10 A management team that is located far away from the markets may have
+     poor visibility of market conditions. Consequently, the team takes a longer
+     time and is less agile to react to changes in consumer preferences and
+     market developments. This results in possible loss of commercial value. With
+     the pressure of competition in the globalised economy, it becomes
+     increasingly important for MNE groups to meet market demands in a timely
+     manner.
+
+5.11 A HQ, particularly a regional HQ, allows the management team to be located
+     closer to the markets where it can have real-time access to market
+     intelligence, react faster to changes in market conditions, make speedier
+     decisions, and have better control over the business’ performance, including
+     resource allocation to priority markets.
+
+
+
+
+                                                                                    5
+6.    Headquarters in Singapore
+
+6.1   While companies’ global HQs are usually based where they were founded,
+      companies may have a variety of considerations in choosing locations to
+      build up other HQs. One company may choose to locate its regional HQs
+      close to its key manufacturing sites. Another could prioritise proximity to
+      growth markets and key clients. Others prefer a location offering access to
+      innovative ecosystems. Overall, many often prize highly connected global
+      cities that provide unparalleled access to highly specialised services,
+      financing, talent and increasingly data security and related capabilities.
+
+6.2   Singapore is often a preferred location for setting up HQs due to the presence
+      of key attributes that are essential for HQ activities. Singapore ranks amongst
+      the top in the world in terms of a competitive economy and ease of doing
+      business. In addition, Singapore’s strategic location in the geographical heart
+      of Asia, vibrant innovation ecosystem, strong talent base and established
+      infrastructure present a unique combination of factors that allow a Singapore-
+      based HQ to host a range of business activities.
+
+      Business capital of Asia
+
+6.3   Singapore is strategically located in the heart of Asia. With an established
+      and extensive network of air and shipping routes and carriers, Singapore is
+      an excellent location for MNE groups to site critical functions and key decision
+      makers, and gain access to the expanding Asian markets.
+
+6.4   As Asia becomes an increasingly important market as well as production
+      base, some MNE groups are choosing to site global and not just regional HQ
+      functions in Singapore.
+
+      Sophisticated ecosystem
+
+      Supply chain management capabilities
+
+6.5   The need to optimise and manage supply chains against the rapidly changing
+      supply and demand markets is increasingly complex and performance-critical.
+      Global companies have established a sophisticated footprint of operations
+      and suppliers across Asia. In this respect, the Asian geography is very
+      diverse, with little standardisation of regulations, business practices and
+      infrastructure development.
+
+6.6   Singapore is an ideal location for MNE groups to manage and diversify their
+      global and regional supply chains. Firstly, the major logistics players and
+      consultancy firms which offer professional support to help businesses with
+      their supply chain needs are in Singapore. Secondly, Singapore is home to
+      a strong base of qualified talent in supply chain-related specialisms, such as
+      industrial systems engineering and operations management. Thirdly,
+      Singapore’s supply chain personnel are generally in the same time zone as
+
+                                                                                    6
+       many large suppliers. This allows for timely resolution of supply chain matters.
+       Lastly, Singapore’s leading universities have strong research focus areas in
+       supply chain management. The combination of these factors provides a
+       favourable environment for MNE groups to navigate the supply chain
+       complexities in Asia.
+
+       Global financial centre
+
+6.7    As relationships with customers and suppliers shift to Asia, companies
+       increasingly see the need to build financial management capabilities in Asia,
+       to get better credit rates from Asia-based banks and to manage credit risk
+       and working capital along the supply chain.
+
+6.8    Singapore stands in good stead to serve the financing needs of MNE groups.
+       It is an international financial centre with diverse financing channels and
+       features a vibrant ecosystem of financial institutions and professional
+       services firms that support MNE groups’ global and regional financing needs.
+
+       Professional services
+
+6.9    Access to competent services providers that are proficient in a wide range of
+       specialist topics enables the HQ to make informed decisions based on high-
+       quality advice.
+
+6.10   Singapore hosts a range of globally leading service providers, which provide
+       high-value specialist services to serve diverse HQ needs. This includes law
+       firms with strong regional expertise, consulting firms with deep knowledge
+       and extensive networks across Asia, and marketing services and technology
+       solution providers that pioneer innovative products and services based on
+       emerging technologies.
+
+       Strong talent base
+
+6.11   Where businesses are looking to centralise control, command and
+       coordination within a single location, access to talent becomes of paramount
+       importance. Singapore has a highly skilled workforce and offers a deep talent
+       pool in specialised areas such as Finance, Marketing, Human Resource,
+       Innovation, IP management and Digital technologies.
+
+6.12   With the high living standards, availability of international schools, clean air
+       and efficient public transport system, and a vibrant community, Singapore
+       offers an attractive location for international talents to live.
+
+       Established infrastructure
+
+       Legal, regulatory and tax framework
+
+6.13   Singapore offers geo-political stability, neutrality and strong governance
+       support for hubbing of complex and multi-jurisdictional activities. In particular,
+
+                                                                                       7
+       Singapore is highly regarded for its trusted legal system, strong rule of law,
+       efficient courts, established dispute resolution regime and robust
+       enforcement of intellectual property rights. This gives MNE groups the
+       confidence to invest in key infrastructures and capabilities in Singapore.
+
+       Digital infrastructure and cyber resilience
+
+6.14   Singapore has also established an extensive and sophisticated information
+       communications network. This assures MNE groups that their business will
+       be well-supported by a reliable digital infrastructure. In addition, Singapore
+       continues to spearhead efforts in regional cybersecurity and cyber capacity
+       building to enhance its position as a trusted hub.
+
+
+
+
+                                                                                   8
+7     Transfer pricing for activities that are centralised in Singapore
+
+      Introduction
+
+7.1   The pricing of related party transactions for activities that are centralised must
+      be at arm’s length. 3
+
+7.2   This section explains how to analyse the related party transactions and the
+      transfer pricing methods that may be appropriate to determine the arm’s
+      length transfer price for activities that are centralised. The explanation for
+      other related party transactions is provided in the IRAS Transfer Pricing
+      Guidelines.
+
+7.3   This section applies to all parties involved in the activities that are centralised.
+      For the remainder of this section, we will assume that the HQ is involved in
+      the activities that are centralised. However, this section is equally applicable
+      to any other entity that is involved in similar activities.
+
+Comparability analysis
+
+7.4   It is important to accurately delineate the actual related party transaction. The
+      related party transaction would have to be understood in the context of the
+      business of the MNE group and the nature of the transaction itself. This
+      requires an understanding of the industry in which the MNE group operates
+      and establishing the economically relevant characteristics of the transaction.
+
+Functional analysis
+
+7.5   The functional profile of a HQ for a related party transaction is dependent on
+      the nature of the activities it conducts (taking into account assets used and
+      risks assumed) which in turn define its contribution to value. Where the HQ
+      assumes a risk for transfer pricing purposes, it needs to control the risk and
+      has the financial capacity to assume the risk.
+
+7.6   For this purpose, it is important to understand how value is generated by the
+      MNE group as a whole, the interdependencies of the functions performed by
+      the HQ with the rest of the group and the contributions that the HQ makes to
+      that value creation.
+
+7.7   MNE groups generate value in different ways. The importance of a value
+      driver for one group may differ from that of another group. This is also
+      dependent on the nature of the goods or services sold by the MNE group.
+      For example, the branded consumer goods sector would require extensive
+      local in-market activities if the business requires very specific local market
+      knowledge and bespoke marketing campaigns to compete with other sellers
+      in the market. The value of the marketing strategy and branding driver would
+
+
+3     The arm’s length requirement is provided in section 34D of the Income Tax Act.
+
+                                                                                        9
+             be more important to this sector as compared to another sector which sells
+             niche goods with few alternatives in the market.
+
+             Economic value created by HQ
+
+7.8          Due consideration must be given to the contribution that the HQ makes to the
+             value creation when determining the arm’s length transfer price for a related
+             party transaction. Such contribution is defined by the intensity of activities
+             undertaken (taking into account assets used and risks assumed).
+
+7.9          Contribution to value creation is not based on the number of functions
+             performed, but the economic significance of those functions in terms of their
+             frequency, nature and value to the respective parties to the transaction.
+
+             Functions performed by and the role of HQ
+
+7.10 For the reasons outlined earlier, HQs generally conduct a wide spectrum of
+     activities that are centralised. The activities may be performed on the entity’s
+     own account (where the HQ usually acts as a principal) or on behalf of
+     another entity (where the entity acts as a service provider). Broadly, these
+     can be categorised as follows 4:
+
+       i.          Principal in distribution, manufacturing or research and development
+                   arrangements;
+       ii.         Activities relating to core business processes;
+      iii.         Activities relating to administrative, technical, financial, commercial,
+                   management, coordination and control functions);
+      iv.          Shareholder activities.
+
+7.11 The activities commonly carried out by HQs within an MNE group could also
+     be carried out by other non-HQs in an MNE group. These activities could be
+     conducted at different levels of intensity and scope. The assets used, the
+     types and extent of risks assumed may vary.
+
+             Principal in distribution, manufacturing or research and development
+             arrangements
+
+7.12 Where the HQ acts as a principal, it carries out risk taking and decision
+     making in these arrangements. It would have qualified personnel, who are
+     often subject matter experts, to perform these functions. Given the extensive
+     knowledge and experience of these individuals, they optimise key functions
+     and processes. Having collective oversight of the activities of the individual
+     distributor, manufacturer or research and development service provider
+     allows the MNE group to take the wider perspective of meeting group level
+     commercial objectives and performance, in order to improve the business
+     outcomes of the MNE group.
+
+
+
+4            These categorisations are not prescriptive and not exhaustive.
+
+                                                                                        10
+7.13 For example, where the regional HQ acts as a principal to contract
+     manufacturers within the group, it would be responsible for sourcing and
+     procuring the raw materials and packaging materials for use by all the
+     contract manufacturers to produce the finished goods. As a principal, it would
+     source for raw materials and packaging materials suppliers offering better
+     terms (given its bargaining power due to the greater volume purchased) and
+     better quality (based on its specialised knowledge of these materials and the
+     finished goods). The regional HQ would work with the contract manufacturers
+     to ensure that the group’s technology is correctly used to produce the goods.
+     The regional HQ would also develop best practices with the contract
+     manufacturers, benchmark and share these best practices across the
+     region/group, and introduce relevant best practices from other regions, to
+     contract manufacturers in their region. The HQ would also project and plan
+     the overall demand for the region and convey it to the respective contract
+     manufacturers in terms of the volume, timing and type of goods to be
+     produced, to ensure that the projected demand is met in the most efficient
+     way across the region.
+
+      Activities relating to core business processes
+
+7.14 The HQ may provide services to other group entities that relate to the core
+     business processes of the group. Typically, these business processes would
+     form part of the supply chain of goods and/or services within the group. This
+     would help to improve the overall performance of the group. The services are
+     extensive and go beyond administrative and executory services. These
+     services may be customised to the needs of the business units. In so doing,
+     the key business risks of the MNE group will be mitigated. As a result, the
+     value of these services tends to correlate to revenues or profits of the MNE
+     group. Examples would include procurement services, sales and trading
+     services, highly technical backend operations for regulatory compliance, IT
+     services, data services etc.
+
+      Activities relating to administrative, technical, financial, commercial,
+      management, coordination and control functions
+
+7.15 The HQ may conduct activities relating to administrative, technical, financial,
+     commercial, management, coordination and control functions i.e. provide
+     centralised services.
+
+7.16 In providing these centralised services, the HQ support the smooth running
+     of the group entities. In this respect, the services provided are generally
+     administrative and executory in nature and are considered corporate
+     overheads. The services are usually not part of the supply chain of goods
+     and/or services within the group. Centralised services may also be carried
+     out by other entities based on the directions and policies set by the HQ.
+     Examples of services include the issuance of invoices, the processing of
+     accounts payable and accounts receivable, filing of local tax returns. The
+     volume of transactions handled tends to be high and reaps the benefits from
+
+
+                                                                                  11
+      having economies of scale. The services performed for different entities tend
+      to be routine and standardised, thus improving efficiencies.
+
+      Shareholder activities
+
+7.17 The HQ may conduct activities relating to other group entities that are
+     performed from the perspective of a shareholder. For example, collation of
+     reports from the group entities for use in the preparation of the consolidated
+     financial statements of the group. Often, this happens if the HQ is also the
+     parent company or regional holding company of the group entities. Generally,
+     these activities, unlike centralised services, do not benefit the group entities.
+     As such, the HQ cannot charge a service fee in respect of these activities.
+
+      Assets utilised by HQ
+
+7.18 Typically, the HQ would employ assets required to run its operations.
+     Common examples of these assets would include its operating premise
+     (which may be leased or owned), fixtures and equipment (such as computer
+     hardware etc.).
+
+7.19 Where the HQ acts as a principal in a manufacturing arrangement, the HQ
+     may own raw materials, packaging materials and finished goods. Where the
+     HQ acts as a principal in a distribution arrangement, the HQ would own the
+     finished goods.
+
+7.20 The HQ may also license patents and other technologies from the Group’s
+     IP owners to carry out its responsibilities. In some other structures, the HQ
+     itself may own relevant IP.
+
+      Risks assumed by the HQ 5
+
+7.21 Where the HQ assumes a risk for transfer pricing purposes, it needs to control
+     the risk and has the financial capacity to assume the risk.
+
+7.22 Due to the myriad of activities undertaken by HQs, there are many different
+     types of risks that may be encountered by the HQ. The following are some
+     examples of risks typically encountered by HQs when they act as principals
+     and when conducting activities relating to core business processes:
+
+
+
+
+5     The list of risks is not exhaustive. There could be other issues such as regulatory risks etc.
+
+                                                                                                  12
+Table 1: Risks encountered by HQs.
+
+ Risks              Description
+ Market/economic    Overall risks in the market. Factors that affect the general
+ risks              economy (e.g. war, inflation, interest rate changes etc.) have
+                    an impact on levels of customer spending and consequently
+                    on the sales, volume and profits of the MNE group.
+                    Fluctuations in the prices of raw materials affect the cost of
+                    production etc.
+ Commercial risks Risks arising from the decisions taken relating to the sales
+                    performance.
+                    Examples could include:
+                    - Failure of marketing initiatives undertaken. Insufficient
+                    demand generated despite new marketing initiatives
+                    undertaken. This could be due to factors such as wrong
+                    strategy undertaken, inaccurate demand research, etc.
+                    - Failure to match or counter competitor’s activity. Relevant
+                    defensive action has to be taken to protect market share.
+ Supply chain risks Risks relating to the supply chain. These include availability
+                    of raw and packaging materials for production, finished goods
+                    to the markets, costs of manufacturing and production
+                    efficiencies etc.
+ Product liability Risks arising from damage or harm to the customer through
+ risks              the use of the products.
+ Inventory risks    Risks relating to product range, availability of finished goods
+                    to the market, inventory obsolescence, damage to inventory
+                    in transit etc.
+ Environmental      Risks relating to the environment. This is usually associated
+ risks              with manufacturing.
+ Capacity risks     Risks relating from under-utilisation of production capacity to
+                    over-capacity etc.
+ Foreign exchange Risks relating to the difference in foreign exchange rates due
+ risks              to different transactions being conducted in currencies
+                    different from the HQ’s own currency.
+ Operational risks Risks arising from disruption in operations e.g. halt in services
+                    rendered etc.
+
+
+7.23 Where a HQ acts as a principal, it would typically assume all/some of the key
+     business risks arising from its activities. The HQ should have the financial
+     capacity to assume the risk, such as the availability of credit lines from banks
+     or group treasury.
+
+7.24 The HQ would have the capability to make decisions to take on, lay off or
+     decline a risk-bearing opportunity, together with the actual performance of
+     that decision-making function. The HQ would also have the capability to
+     make decisions on whether and how to respond to the risks associated with
+     the opportunity, together with the actual performance of that decision-making
+     function. Often, the demonstration of these two capabilities can be seen in
+
+                                                                                  13
+      terms of the risk management and mitigation strategies employed within the
+      MNE group. The relevant positions in the HQ would also be vested with the
+      authority to make the decisions relating to risk management and mitigation.
+      The personnel in these positions would have the requisite experience, skills
+      and qualifications. This can be seen through the profiles of these personnel.
+      Often, these personnel tend to be more senior in job level and salary scale
+      across the MNE group.
+
+7.25 Where the HQ conducts activities relating to core business processes, it
+     would usually manage the critical business risks for the MNE group. This is
+     different from risk assumption as mentioned in paragraphs 7.23 and 7.24.
+
+7.26 For example, the global HQ could be responsible for setting high-level global
+     supply chain policies and procedures. It provides guidance to other entities
+     in the implementation of these policies and procedures. These actions help
+     to mitigate the supply chain related risk of the group. However, it would not
+     be said to be assuming the supply chain risk. Within the group, the Regional
+     HQ conducts strategic supply chain activities as part of its responsibilities as
+     a principal to contract manufacturers in the region. This includes making
+     decision on in-house or outsourced manufacturing, supplier management
+     (e.g. identifies and selects suppliers, manages supplier performance,
+     performs supplier capacity planning, manages contractual terms with the
+     third-party suppliers). The regional HQ makes the decisions that relate to the
+     control of the supply chain risk. Hence, the regional HQ can be said to be
+     assuming the supply chain risk, provided it has the financial capacity to do
+     so. As illustrated, while both global HQ and regional HQ are performing
+     supply chain activities, these vary in terms of intensity and scope. The FAR
+     profiles of both entities would differ. Consequently, the characterisation and
+     transfer pricing methodology employed would differ.
+
+7.27 One further example could include an MNE group with IP ownership
+     centralised at the global HQ. The regional HQ provides inputs and assists the
+     global HQ in setting the strategy and direction for the region. The regional
+     HQ also ensures the successful implementation of the global strategy for the
+     region. In such a situation, the regional HQ would not be taking the key
+     business decisions and would not assume significant risks.
+
+7.28 Where the HQ conducts mainly activities relating to administrative, technical,
+     financial, commercial, management, coordination and control functions, the
+     associated risks are generally limited to the operational risks of providing
+     these services.
+
+      Transfer Pricing Methodology (TPM)
+
+7.29 Every effort should be made to price the actual related party transaction for
+     HQ as accurately delineated using the five methods set out in the IRAS
+     Transfer Pricing Guidelines, any other more appropriate methods or a
+     combination of various methods. The general approach to analyse intra-
+     group HQ activities is no different from the approach for analysing other intra-
+
+                                                                                  14
+      group transaction. If the activities performed are benefitting the Group entities,
+      the HQ should be compensated on an arm’s length basis. In the absence of
+      compensation made to the HQ, a compensation may be deemed to have
+      been received by the HQ. The amount of deemed compensation should be
+      determined based on appropriate analysis and will be subject to tax in
+      Singapore as part of the HQ’s income.
+
+7.30 As mentioned in section 5, HQ activities bring about benefits to the MNE
+     group. Realistically, independent parties would not always be able to arrange
+     their affairs in the way that members of an MNE group can. Some of the
+     activities in the HQ context may not exist in a third party setting. The arm’s
+     length principle requires that the conditions between related parties be
+     examined and the effect on profits due to the relationship be eliminated.
+     Hence, the use of the appropriate transfer pricing method should work
+     towards that outcome.
+
+7.31 When selecting the most appropriate method to price HQ activities, besides
+     considering the availability of reliable independent comparables, it is
+     important to consider industry practices. Common industry practices provide
+     indication of what independent parties would have agreed to pay or receive
+     under comparable circumstances.
+
+7.32 Depending on the transfer pricing model of the group, the related party
+     transactions with the HQ could be analysed on a transaction-by-transaction
+     basis or on an aggregate basis.
+
+      Principal in distribution, manufacturing or research and development
+      arrangements
+
+7.33 Where the HQ acts as the principal in distribution, manufacturing or research
+     and development arrangements, these transactions are usually identifiable
+     and can be analysed on a transaction-by-transaction basis.
+
+7.34 The CUP method is appropriate if a comparable transaction can be found.
+     This is subject to adjustments being made to improve the comparability of the
+     transactions. In practice, it is less common to find CUPs or to make the
+     necessary adjustments needed to use the CUP.
+
+7.35 One sided methods are often used. In these transactions, the HQ would
+     usually be the party with the more complex functional profile. Consequently,
+     the related party would generally be the tested party. The method which can
+     be applied in the most reliable manner and for which the most reliable
+     comparables can be found would be applied to the tested party.
+
+7.36 The costs incurred by the manufacturer and the research and development
+     service provider would provide a value to the functions performed. These
+     activities are usually tested using the cost-plus method or the transactional
+     net margin method (“TNMM”) using cost as the appropriate base. The mark-
+
+
+                                                                                     15
+      up will be determined based on comparability analysis of entities of a similar
+      functional profile.
+
+7.37 Where distributors are responsible for driving the sales within the markets
+     that they operate in, they are usually tested using the resale price method or
+     the TNMM using sales as the appropriate base i.e. operating margin. In the
+     event that the distributors do not drive sales, the distributors may be rewarded
+     using the cost-plus method or the TNMM using cost as the appropriate base
+     or the berry ratio 6. The mark-up will be determined based on comparability
+     analysis of distributors of a similar profile.
+
+      Activities relating to core business processes and activities relating to
+      administrative, technical, financial, commercial, management, coordination
+      and control functions
+
+7.38 Where the HQ conducts activities relating to core business processes or
+     provide centralised services, these transactions can be analysed either on
+     an aggregate basis or a transaction-by-transaction basis. Where the
+     transactions are identifiable, the transaction-by-transaction basis can be
+     applied. However, where the individual transactions are highly inter-related
+     and it can be demonstrated that independent parties in comparable
+     circumstances would typically price the individual transactions on an
+     aggregate basis, an aggregate basis can be considered.
+
+7.39 The CUP method is appropriate where there is a comparable service
+     provided to third parties or comparable services can be found to be provided
+     between independent enterprises. This is subject to adjustments being made
+     to improve the comparability of the transactions. In practice, it is less common
+     to find CUPs or to make the necessary adjustments needed to use the CUP.
+
+7.40 Where the service provider shares in the risks and consequently the rewards
+     of their function, a profit split method which measures the gains achieved and
+     splits it between the service provider and the other related parties may be
+     appropriate. This is possible where the services are in respect of activities
+     relating to core business processes and are typically part of the supply chain
+     of goods and/services of the MNE group.
+
+7.41 In other instances, a TPM that rewards based on the cost-plus or TNMM
+     method would be appropriate when the value of the services provided by the
+     centralised service provider is driven by its inputs into the process i.e. its
+     costs. The mark-up will be determined based on comparability analysis of
+     service providers of a similar profile. Where applicable, taxpayers can rely on
+     IRAS’ administrative practices or practices accepted by IRAS for routine
+     support services 7.
+
+
+
+6     Subject to meeting the requirements in Section 5 of the IRAS Transfer Pricing Guidelines.
+7     This is found in Section 14 of the IRAS Transfer Pricing Guidelines.
+
+
+                                                                                              16
+7.42 Where a HQ assumes economically significant risks and is characterised as
+     an entrepreneur, it should receive the residual profit according to the transfer
+     pricing method (typically, but not always, in the form of a variable return). This
+     means the HQ would be entitled to the upside benefits and incurs the
+     downside costs.
+
+7.43 Where a HQ does not assume economically significant risks, does not make
+     key business decisions and is characterised as a service provider, it would
+     generally receive a fixed return. The quantum of the fixed return is dependent
+     on the level of value add of the service.
+
+7.44 See Annex A for a case study.
+
+7.45 Every HQ is different. Each HQ has to be considered on its own facts and
+     circumstances. On an overall basis, the total remuneration for the HQ should
+     always be commensurate with its functions, assets and risks profile. Any of
+     the five methods set out in the IRAS Transfer Pricing Guidelines, any other
+     more appropriate methods or a combination of various methods can be used.
+
+
+
+
+                                                                                    17
+8     HQs in practice
+
+8.1   Section 7 has described some of the possible arrangements that may be
+      found in MNE groups that have adopted varying degree of centralisation in
+      their business models.
+
+8.2   The principles described in Section 7 would also be applicable to MNE groups
+      that adopt decentralised business models
+
+8.3   An example would be the case of a decentralised MNE group with full-risk
+      distributors. The regional HQ provides centralised services to support these
+      full-risk distributors. The full-risk distributors assume the significant risks for
+      the markets that they operate in and are characterised as the entrepreneurs.
+      Consequently, the full-risk distributors in the group are entitled to the residual
+      profits for the markets that they operate in. The full-risk distributors would pay
+      the regional HQ a service fee that would be determined by an appropriate
+      transfer pricing method.
+
+
+
+
+                                                                                      18
+9            Transfer pricing documentation requirements
+
+9.1          When related party transactions meet the conditions specified in Section 6 of
+             the IRAS Transfer Pricing Guidelines, taxpayers are required to prepare
+             transfer pricing documentation (“TP documentation”). If taxpayers fail to do
+             so, they shall be liable to a fine not exceeding $10,000. 8 Where taxpayers
+             are exempted from preparing TP documentation, IRAS encourages
+             taxpayers to document and explain the transfer pricing arrangement.
+
+9.2          The TP documentation should meet the requirements found in Section 6 of
+             the IRAS Transfer Pricing Guidelines. IRAS expects the following information
+             in the TP documentation:
+
+       i.          Economic circumstances and business strategies for the related party
+                   transaction;
+
+      ii.          Details on how value is generated by the MNE group as a whole, the
+                   inter-dependencies of the functions performed by the HQ and its related
+                   parties with the rest of the group and the contribution that the HQ and
+                   its related parties make to that value creation;
+
+      iii.         A thorough functional analysis, including a detailed analysis on risks
+                   assumption and how those risks are managed and controlled;
+
+      iv.          Reliable evidence (such as actual examples on risk materialisation) and
+                   document to support the HQ’s assumption and management of risks. It
+                   is possible that a HQ assumes certain risks but the effect of those risks
+                   is not apparent in its financial statements. The HQ has effectively
+                   managed the risks or the risks have not played out. In such a situation,
+                   the HQ must be able to explain in detail with documentation on how it
+                   manages and controls those risks;
+
+      v.           Price-setting policy, including the appropriate transfer pricing method
+                   used, basis of selecting the method, and information and document
+                   needed to justify the pricing.
+
+      vi.          Where services have been provided or received:
+                   a) Benefits testing to illustrate the provision or receipt of services.
+                       Explain the benefits obtained by the related parties from the
+                       services and the necessity of the services;
+                   b) Explain the choice of charging method i.e. direct charge or indirect
+                       charge and the method of allocation;
+                   c)  Explain how and where the cost incurred to provide the service is
+                       booked and how it is charged to the related service recipients;
+
+
+8            The TP documentation requirement is provided in section 34F of the Income Tax Act
+             following the rules prescribed in the Income Tax (Transfer Pricing Documentation) Rules
+             2018.
+
+                                                                                                 19
+      vii.          Administrative practices used should be documented.
+
+9.3          Where applicable, taxpayers can rely on IRAS’ administrative practices or
+             practices accepted by IRAS for routine support services 9 . Taxpayers are
+             exempted from preparing TP documentation in this instance.
+
+9.4          If taxpayers have prepared similar TP documentation (for example, OECD
+             master file and local file) for the purpose of complying with the requirements
+             of other tax jurisdictions, such documentation, if relevant to the business
+             operations in Singapore, may form part of the TP documentation for
+             Singapore tax purposes.
+
+9.5          It is a good practice for the HQ to set up a process to establish, monitor and
+             review its transfer prices systematically. Taxpayers should also conduct
+             periodic reviews to review their related party arrangements holistically and
+             update the relative value of these arrangements in light of technological
+             changes and other developments affecting the MNE group.
+
+
+
+
+9   This is found in Section 14 of the IRAS Transfer Pricing Guidelines.
+
+
+                                                                                        20
+10         Avoiding and resolving transfer pricing dispute
+
+10.1 The HQ can avoid transfer pricing disputes and obtain early tax certainty by
+     applying for an Advance Pricing Arrangement (APA) for its related party
+     transactions for future years.
+
+10.2 Where a HQ suffers double taxation from adjustments made by IRAS or by a
+     foreign tax authority on the transfer prices of its related party transactions, it
+     can choose to resolve the issue through:
+
+     i.        Taking legal remedies in the jurisdiction in which the transfer pricing
+               adjustments are made; and/or
+
+     ii.       Requesting IRAS to resolve the double taxation through the Mutual
+               Agreement Procedure (MAP).
+
+
+
+
+                                                                                    21
+11    Contact Information
+
+11.1 If you have any enquiries or need clarification on this e-Tax Guide, please
+     email ct_transfer_pricing@iras.gov.sg.
+
+
+
+
+                                                                             22
+Annex A - Case study of a regional HQ
+
+
+
+
+Figure 1: Transactional flows between related parties in Group A
+
+1.    MNE Group A operates in the fast-moving consumer goods (“FMCG”)
+      industry. It has established a regional HQ entity in Singapore, A Co., to be
+      closer to the Asia-Pacific region.
+
+2.    The Group decided to centralise strategic decision-making activities for the
+      Asia-Pacific region from the markets to A Co.. This will allow the Group to
+      reap the benefits of centralisation. For example, consistency in the branding
+      of the Group’s products within the region, efficiencies from a common
+      marketing policy with some customisation for each specific market. The
+      regional HQ would also be in a better position to deepen its understanding of
+      cultures and customer preferences with respect to markets in the Asia-Pacific
+      region. Moreover, the group would be better able to react to more real-time
+      market developments in the region, given the fast-evolving landscape of the
+      FMCG industry. This will allow the Group to compete more effectively on cost
+      and quality in the Asia-Pacific region.
+
+3.    The Global HQ sets high level parameters for A Co. to work within in respect
+      of the region. A Co. makes strategic decisions on markets within the Asia-
+      Pacific region, including the opening or closing of a distributing subsidiary,
+      launch of a new product in existing markets, and the product mix in each
+      market. Consequently, A Co. is responsible for the performance of the Asia-
+      Pacific region.
+
+4.    A Co. performs centralised activities. Centralisation provides the commercial
+      advantage that each individual entity need not duplicate efforts and perform
+      these activities on its own, especially where there may be cost or labour
+
+                                                                                 23
+      efficiencies from conducting such activities on a larger scale, on a Group-
+      wide basis. For example, the centralisation of the collection and analysis of
+      market data within A Co. Due to the breadth of product types in the FMCG
+      industry, a centralised team could be more efficient in interpreting market
+      data. This can be used in the MNE group’s further decision making on
+      aspects such as branding, sales and marketing strategies, and product
+      pricing. A centralised team would also have better awareness of the Group’s
+      entire range of products within the Asia-Pacific region, allowing comparisons
+      to be drawn across different markets for a given product type.
+
+Delineated transactions
+
+5.    A Co.’s related party transactions are as follows:
+
+                       Table 1: A Co’s related party transactions
+           Transaction (“T”)                     Description
+                              License of legal trademark and technology by A
+                 T1
+                              Co. from the Global HQ
+                              Sale of raw materials and packaging materials
+                 T2
+                              from A Co. to regional group manufacturers
+                              A Co.’s purchase of finished goods from regional
+                 T3
+                              group manufacturers
+                              Sale of finished products by A Co. to related
+                 T4
+                              distributors
+                              Provision of centralised services by A Co. to
+                 T5
+                              related manufacturers and related distributors.
+
+
+Functions undertaken by A Co.
+
+6.    A Co. is the regional entrepreneur for the said products in the Asia-Pacific
+      region. To meet its responsibilities for the region, A Co. performs the
+      functions below.
+
+      a)   Licensing – It licenses the legal trademark to sell and the technology for
+           manufacturing the finished goods from the Global HQ (T1) and carries
+           out the entrepreneurial functions related to these products for the Asia-
+           Pacific region.
+
+      b)   Procuring – A Co. is responsible for sourcing and procuring raw
+           materials and packaging materials for use by the contract
+           manufacturers to produce the finished goods. A Co. would ensure that
+           the items procured are at the right price point, quality and terms of sale.
+           A Co. is also responsible for the continuity in supply of the raw materials
+           and the packaging materials.
+
+      c)   Manufacturing – A Co. works with the contract manufacturers to ensure
+           that the licensed-in technology is correctly used to produce the finished
+           goods. A Co. helps contract manufacturers to trouble shoot and solve
+
+                                                                                   24
+          production hiccups and problems. These functions are necessary for A
+          Co. to manage the cost of production, while meeting quality, quantity
+          and efficiency requirements. A Co. may also work together with the
+          manufacturers to better improve work processes to increase production
+          yield.
+
+     d)   Demand planning – A Co. is responsible for projecting and planning the
+          demand for the finished goods within the region. It has the expertise to
+          supervise and advise the contract manufacturers on the production
+          activities ranging from production planning to product delivery. A Co.
+          works closely with the distributors on the forecasting of demand for
+          specific products, determining the appropriate product mix and
+          localisation of certain product specification such as packaging and
+          language customisation etc.
+
+     e)   Supply – A Co. works with the contract manufacturers to plan production
+          and delivery for the finished goods to physically reach the respective
+          markets on time and at the right timing and quantity.
+
+     f)   Distribution – A Co. purchases the finished goods from the contract
+          manufacturer. It assumes title to the goods and is responsible for
+          storage and delivery of the finished goods. It then sells the finished
+          goods to the distributors in the market. A Co. procures services from
+          third-party logistics and warehouse operators.
+
+     g)   Sales and marketing – A Co. works closely with the related party
+          distributors to ensure consistent implementation of the group marketing
+          strategy and in-market localisation plans. This could be in terms of
+          advertising campaigns, in-store display and marketing events, the
+          choice of promotional materials, free gifts etc. In the event that sales
+          targets are not met, A Co. works with the distributors on how to deal
+          with the excess inventory and designs alternative selling action plans.
+
+     h)   Other functions – A Co. provides other centralised services to the
+          related parties in the region. These include legal, human resource and
+          talent management, finance and tax.
+
+7.   A Co. needs to be able to demonstrate that it has the capability to take on the
+     functions as listed above. Generally, this can be seen by comparing the
+     qualifications, roles and responsibilities of A Co and its related parties. The
+     number of personnel, complemented with their respective skills, roles and
+     responsibilities and job levels in A Co. and in the related entities are good
+     indicators of whether A Co. has the capability and resources to take on the
+     functions it professes to undertake. There may be instances where A Co.
+     outsources the functions to third party providers e.g. third party logistical and
+     warehouse operators. In such a case, A Co. has to demonstrate that it still
+     retains the overall control over the contractors i.e. the functions and the
+     accompanying risks are still borne by A Co.
+
+
+                                                                                   25
+Assets utilised by A Co.
+
+8.    A Co. owns office furniture and fixtures, computer hardware, equipment and
+      laboratory equipment.
+
+9.    A Co. licenses patents and production technologies from the Global HQ
+      relating to the products it is given responsibility for and pays the latter a
+      royalty fee.
+
+10.   A Co. owns raw materials, packaging materials and finished goods.
+
+Risks undertaken by A Co. 10
+
+11.   In view of the functions above, A Co. undertakes the risks below. A Co.’s
+      personnel has the capability to make decisions to take on, lay off or decline
+      risk-bearing opportunities relating to these risks and they perform the
+      decision-making function in respect of these risks. A Co.’s personnel also
+      have the capability to make decisions on whether and how to respond to the
+      risks associated with the opportunity, together with the actual performance of
+      that decision-making function. A Co. has the financial capacity to bear these
+      risks:
+
+
+
+
+10    The list of risks is not exhaustive. There could be other issues such as regulatory risks etc.
+
+                                                                                                  26
+Table 2: Risks borne by A Co.
+
+ Risks              Description
+ Market/economic    This refers to the overall risks in the market. Factors that
+ risks              affect the general economy (e.g. war, inflation, interest rate
+                    changes etc.) have an impact on levels of customer spending
+                    and consequently on the sales, volume and profits of the
+                    MNE group. Fluctuations in the prices of raw materials affect
+                    the cost of production etc.
+ Commercial risks This refers to the risks arising from the decisions taken by the
+                    A Co.
+                    Examples could include:
+                    - Failure of marketing initiatives undertaken by A Co.: Sales
+                    not materialising as demand was not generated despite new
+                    marketing initiatives undertaken. This could be due to many
+                    factors such as wrong strategy undertaken, inaccurate
+                    demand research etc.
+                    - Competitor activity: Competitors come up with a new or
+                    improved product that is in direct competition with the MNE
+                    group’s product. A Co. may have to decide on the relevant
+                    defensive action to take to protect its market share. Thus, it
+                    will also bear the costs of its defensive action and the
+                    consequences.
+ Supply chain risks A Co. manages the supply of products to its markets. In the
+                    case of products, this includes the end-to-end supply chain,
+                    including raw and packaging materials sourcing, ensuring
+                    that demand for products are met and ultimately ensuring the
+                    availability of finish goods to its markets. It controls costs by
+                    maintaining       important     manufacturing     and      supply
+                    arrangements and making interventions to optimise supply
+                    chain. It is responsible for designing the supply chain and
+                    making interventions needed to main production, cut costs
+                    and/or improve efficiency. Thus, A Co. would need to bear
+                    the costs of any of its decisions for e.g. to close inefficient
+                    production facilities, invest to increase production capacity so
+                    as to meet forecasted demands etc.
+ Product liability A Co. bears the risk arising from damage or harm to the
+ risks              customer through the use of the products, except where it has
+                    recourse against the IP owner.
+ Inventory risks    A Co. manages the product supply strategy in each market.
+                    This includes the determination of product range and
+                    initiatives in each market and ensuring the availability of
+                    finished goods to customers. A Co. is responsible for obsolete
+                    inventory, damages to inventory in transit etc.
+ Environmental      A Co., either directly or through the mechanism for
+ risks              remunerating the contract manufacturer, would have to bear
+                    the cost relating to all environmental risks.
+ Capacity risks     A Co. through the mechanism of remunerating the contract
+                    manufacturer, bears the cost of under-utilisation of production
+
+                                                                                   27
+                   capacity and keeping the plants running when there is excess
+                   inventory.
+ Foreign exchange A Co. transacts with its related parties in their respective
+ risks             home currencies. The costs arising from foreign exchange
+                   differences would be borne by A Co.
+ Operational risks A Co. is responsible for its day-to-day operations. In the event
+                   that operations are disrupted, and the services are not
+                   rendered to the other related parties, A Co. would have to
+                   bear the consequential costs arising from it.
+
+Characterisation of related entities
+
+12.   We assume that the regional group manufacturers are contract
+      manufacturers and the related distributors are low risk distributors.
+
+TPM
+
+T1 - License of legal trademark and technology by A Co. from the Global HQ
+
+13.   A Co. would have to pay the Global HQ for the use of trademarks and
+      manufacturing know-how. The royalty rate could be set possibly using the
+      CUP method or other appropriate methods. Where the CUP method is
+      appropriate, the comparability analysis should be made up of comparable
+      agreements for the use of similar intangibles. For example, if the Global HQ
+      licenses out the use of the patents to third parties, the rate charged, subject
+      to the relevant comparability adjustments made, would be a possible CUP.
+      Depending on the relative functions, assets and risks assumed by Global HQ
+      and A Co., a profit split or residual profit split method for determining the
+      license fees is also a possible method.
+
+T4 - Sale of finished products by A Co. to related distributors
+
+14.   A Co. is the principal to the related distributors. Relative to A Co., the group
+      distributors are found to be the simpler entities with the less complex
+      functional profiles. These would be the parties to which a transfer pricing
+      method can be applied in the most reliable manner and for which the most
+      reliable comparables can be found.
+
+15.   Based on the facts of the example, A Co. is largely in control of the distribution
+      function. A Co. is responsible for providing the direction for the functions and
+      working closely with the distributors. The TNMM method is commonly used
+      for these situations. Given that the distributors are responsible for driving the
+      sales within the markets that they operate in, the distributors would usually
+      be rewarded with a profit level indicator using the operating margin.
+
+
+
+
+                                                                                     28
+T2- Sale of raw materials and packaging materials from A Co. to regional
+group manufacturers
+T3 - A Co.’s purchase of finished goods from regional group manufacturers
+
+
+16.   T2 and T3 are closely inter-twined. In practice, the two transactions are
+      examined together. A Co. is the principal to the regional group manufacturers.
+      The regional group manufacturers would tend to be the functionally simpler
+      party as compared to A Co. The TNMM method is commonly used for this
+      situation. The manufacturers would usually be rewarded with a profit level
+      indicator using the full cost mark-up. The mark-up will be determined based
+      on comparability analysis of similar manufacturers.
+
+T5 – A Co’s provision of centralised services to related entities
+
+17.   A Co. charges a services fee to the related entities for the services rendered.
+      A Co. could either charge the entities based on the direct charge method or
+      the indirect charge method. For the direct charge method, A Co. would have
+      to be able to identify and track the service rendered to each related entity and
+      the cost incurred to provide the service. An appropriate mark-up is then
+      identified and applied to the cost incurred. For the indirect charge method, A
+      Co. would have to identify and track the total services rendered and the total
+      cost incurred to provide the relevant services. A Co. would then need to
+      identify suitable allocation keys to apportion the costs incurred in respect of
+      the services provided to each entity. The appropriate mark-up would then be
+      applied to compute the service charge. Likewise, the TNMM method using
+      full cost mark-up is commonly used for this situation. The mark-up will be
+      determined based on comparability analysis of similar service providers.
+      Where applicable, administrative practices for routine services can also be
+      used.
+
+18.   A summary of what could be considered an appropriate TPM in each of A
+      Co.’s transactions is presented in Table 3 below:
+
+        Transaction           Tested party                   TPM/PLI
+            T1             Global HQ and A Co.            CUP/PSM/RPSM
+           T2 &
+                         Regional manufacturers       TNMM/Full cost mark-up
+            T3
+            T4             Regional distributors      TNMM/Operating Margin
+            T5                   A Co.                TNMM/Full cost mark-up
+
+
+
+
+                                                                                   29
+Arm’s length remuneration (ALR)
+
+19.   Based on the above, A Co.’s remuneration would be determined as follows:
+
+       Particulars                                             Legend
+       A Co’s sales to related parties                         A
+       Add: A Co’s income from services to related parties     B
+       Less: Royalties for intangibles (T1)                    C
+       Less: Cost of raw materials and packaging materials     D
+       (T2)
+       Less:     Remuneration      to    regional   contract   E
+       manufacturers (T3)
+       Less: Remuneration to regional distributors (T4)        F
+       Less: Operating expenses                                G
+       A Co’s profits                                          H=A+B-C-D-
+                                                               E-F-G
+
+20.   A Co. receives residual profits after paying routine returns to its related
+      entities. A Co.’s remuneration will be highly variable, and dependent on the
+      Group’s sales performance in the Asia-Pacific region. A Co. could expect to
+      receive higher profits in years where MNE Group A records above average
+      profits in the Asia-Pacific region, or low or negative profits in years where
+      sales are poor in this region.
+
+
+
+
+                                                                                30
+

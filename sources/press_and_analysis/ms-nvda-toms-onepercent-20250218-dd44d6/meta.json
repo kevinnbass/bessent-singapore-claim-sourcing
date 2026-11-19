@@ -1,0 +1,12 @@
+{
+ "id": "ms-nvda-toms-onepercent-20250218-dd44d6",
+ "address": "https://www.tomshardware.com/tech-industry/deepseek-gpu-smuggling-probe-shows-nvidias-singapore-gpu-sales-are-28-percent-of-its-revenue-but-only-1-percent-are-delivered-to-the-country-report",
+ "fetched_utc": "2026-11-16T06:30:23Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 2130896,
+ "sha256": "7e6679fa2c54f9081bdeb85acdf4c28b9ecc36f9600020ae46977d1cc22c0c9b",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "4b5e3d5d4e8d042d9ceb62bcd0bf5205d513eea6c12f7d8fc80b8c451c528495",
+ "files_in_this_folder": []
+}

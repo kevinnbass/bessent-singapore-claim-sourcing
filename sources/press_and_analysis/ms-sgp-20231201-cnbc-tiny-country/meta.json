@@ -1,0 +1,12 @@
+{
+ "id": "ms-sgp-20231201-cnbc-tiny-country",
+ "address": "https://www.cnbc.com/2023/12/01/this-tiny-country-drove-15percent-of-nvidias-revenue-heres-why-it-needs-so-many-chips.html",
+ "fetched_utc": "2026-11-18T05:17:04Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 807930,
+ "sha256": "c20a3cce4c06591e7a32b12db5e03abd328c69dc4a5e07c468f6ad52dd6dd9b5",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "6f8267910d3119c5a66453d9441f907cffca3fa51665e0ae76a4224629f53ea2",
+ "files_in_this_folder": []
+}

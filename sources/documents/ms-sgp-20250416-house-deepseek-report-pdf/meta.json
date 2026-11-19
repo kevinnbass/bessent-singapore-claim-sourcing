@@ -1,0 +1,13 @@
+{
+ "id": "ms-sgp-20250416-house-deepseek-report-pdf",
+ "address": "https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/DeepSeek%20Final.pdf",
+ "fetched_utc": "2026-11-18T05:19:34Z",
+ "status": 200,
+ "content_type": "application/pdf",
+ "bytes": 992378,
+ "sha256": "c9724ea1029a4b419f14f528c79a2d6ab63ee4089c2da25b5884d2a6b7c62111",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.pdf"
+ ]
+}

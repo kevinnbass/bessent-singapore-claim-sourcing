@@ -1,0 +1,12 @@
+{
+ "id": "ms-relay-techcrunch-1113",
+ "address": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+ "fetched_utc": "2026-11-16T08:14:46Z",
+ "status": 200,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 237075,
+ "sha256": "0dd1d70f198db8981f96bda2bb9d342738c37027f31ef1c6816fae1d73707d68",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "5f55b38ce53a416d6ef87f5dcf254640bd08f79e1618aead72369d3e92af8dfc",
+ "files_in_this_folder": []
+}

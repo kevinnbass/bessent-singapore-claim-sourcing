@@ -1,0 +1,13 @@
+{
+ "id": "ms-sg2-nvidiaown-fc242a",
+ "address": "https://x.com/nvidianewsroom/status/1912614585204633609",
+ "fetched_utc": "2026-11-18T06:01:04Z",
+ "status": 200,
+ "content_type": "application/json",
+ "bytes": 3756,
+ "sha256": "edbbc4ebf96bbb998d32b675d110bc590ca28368873a793ec8152f10f7570188",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.json"
+ ]
+}

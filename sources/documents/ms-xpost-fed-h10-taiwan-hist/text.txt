@@ -1,0 +1,25 @@
+URL: https://www.federalreserve.gov/releases/h10/hist/dat00_ta.htm
+FETCHED: 2026-11-19T00:09:12Z
+STATUS: 200
+TITLE: Federal Reserve Board - Foreign Exchange Rates - H.10 - November 16, 2026
+PUBLISHED: 
+MODIFIED: 
+AUTHOR: 
+DESCRIPTION: The Federal Reserve Board of Governors in Washington DC.
+
+An official website of the United States Government
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS A lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Stay Connected Federal Reserve Facebook Page Federal Reserve Instagram Page Federal Reserve YouTube Page Federal Reserve Flickr Page Federal Reserve LinkedIn Page Federal Reserve Threads Page Federal Reserve Twitter Page Subscribe to RSS Subscribe to Email
+Federal Reserve Facebook Page
+Federal Reserve Instagram Page
+Federal Reserve YouTube Page
+Federal Reserve Flickr Page
+Federal Reserve LinkedIn Page
+Federal Reserve Threads Page
+Federal Reserve Twitter Page
+Board of Governors of the Federal Reserve System
+The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.
+Foreign Exchange Rates - H.10
+RSS Data Download FRED XML
+Effective June 24, 2019, the Federal Reserve Board staff will make a change to the indexation of the daily Broad, AFE, and EME dollar indexes. For more information, see the "Technical Q&As" .

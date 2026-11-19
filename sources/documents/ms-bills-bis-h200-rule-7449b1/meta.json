@@ -1,0 +1,13 @@
+{
+ "id": "ms-bills-bis-h200-rule-7449b1",
+ "address": "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china",
+ "fetched_utc": "2026-11-16T06:16:35Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 53099,
+ "sha256": "8410abd08c286de097a9610a52a1db7f5ef43e482a699e07243fdca56921ef37",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.html"
+ ]
+}

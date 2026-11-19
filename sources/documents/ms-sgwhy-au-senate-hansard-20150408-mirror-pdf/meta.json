@@ -1,0 +1,13 @@
+{
+ "id": "ms-sgwhy-au-senate-hansard-20150408-mirror-pdf",
+ "address": "https://cloudfront.bernews.com/wp-content/uploads/2015/04/Economics-References-Committee_2015_04_08_3366.pdf",
+ "fetched_utc": "2026-11-18T11:21:00Z",
+ "status": 200,
+ "content_type": "application/pdf",
+ "bytes": 496020,
+ "sha256": "a5e1ce9bbd17d0dfd0e474590e6dfec89c7499adb70f1c6a3f3d6be78d776df8",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.pdf"
+ ]
+}

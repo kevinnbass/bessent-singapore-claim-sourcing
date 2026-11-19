@@ -1,0 +1,13 @@
+{
+ "id": "ms-xpost-fed-h10-taiwan-hist",
+ "address": "https://www.federalreserve.gov/releases/h10/hist/dat00_ta.htm",
+ "fetched_utc": "2026-11-19T00:09:12Z",
+ "status": 200,
+ "content_type": "text/html",
+ "bytes": 1136530,
+ "sha256": "f44ad6b3c65d50afd40d0291a1c59243e05492b4e9c6bf6dff69894571aea440",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.html"
+ ]
+}

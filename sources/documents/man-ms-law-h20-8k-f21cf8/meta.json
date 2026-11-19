@@ -1,0 +1,13 @@
+{
+ "id": "man-ms-law-h20-8k-f21cf8",
+ "address": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000082/nvda-20250409.htm",
+ "saved_utc": "2026-11-16T07:46:52Z",
+ "status": "hand-saved",
+ "pdf_sha256": "3e88b5ba063a381377aa01e8a4bf113208ed9a133d27a27dbaf34dd81e9ac21b",
+ "pdf_bytes": 112459,
+ "pages": 4,
+ "files_in_this_folder": [
+  "text.txt",
+  "saved_copy.pdf"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "id": "ms-sgwhy-iras-centralised-activities-guide-pdf",
+ "address": "https://iras.gov.sg/media/docs/default-source/e-tax/etaxguide---tp-for-headquarters-(19-mar-2021)-docx.pdf",
+ "fetched_utc": "2026-11-18T11:10:33Z",
+ "status": 200,
+ "content_type": "application/pdf",
+ "bytes": 384664,
+ "sha256": "c5fd07fac9440a0e8918adcce04d3042c02162c30685c6640342bb38bc697b33",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.pdf"
+ ]
+}

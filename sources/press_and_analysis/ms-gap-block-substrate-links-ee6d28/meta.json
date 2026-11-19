@@ -1,0 +1,12 @@
+{
+ "id": "ms-gap-block-substrate-links-ee6d28",
+ "address": "https://www.the-substrate.net/p/whats-going-on-with-jensen-huang",
+ "fetched_utc": "2026-11-16T09:02:36Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 270954,
+ "sha256": "ad5fd92c4f852848167bb9e954ad7739612877fb7d251d47af8d911610e2c666",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "712b70809531febb13f675da48c76c3089ee484ada66e70d35735fa05e40026f",
+ "files_in_this_folder": []
+}

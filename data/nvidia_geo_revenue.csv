@@ -1,0 +1,82 @@
+period,basis,region,usd_millions,filing,filing_url
+FY2023,billing,United States,8292,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2023,billing,Singapore,2288,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2023,billing,Taiwan,6986,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2023,billing,China incl. Hong Kong,5785,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2023,billing,Other,3623,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2024,billing,United States,26966,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2024,billing,Singapore,6831,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2024,billing,Taiwan,13405,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2024,billing,China incl. Hong Kong,10306,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2024,billing,Other,3414,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+H1 FY2025 (to Jul 2024),billing,United States,26518,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2025 (to Jul 2024),billing,Singapore,9659,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2025 (to Jul 2024),billing,Taiwan,10113,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2025 (to Jul 2024),billing,China incl. Hong Kong,6158,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2025 (to Jul 2024),billing,Other,3636,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+Q3 FY2025 (Oct 2024),billing,United States,14800,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+Q3 FY2025 (Oct 2024),billing,Singapore,7697,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+Q3 FY2025 (Oct 2024),billing,Taiwan,5153,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+Q3 FY2025 (Oct 2024),billing,China incl. Hong Kong,5416,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+Q3 FY2025 (Oct 2024),billing,Other,2016,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+9M FY2025 (to Oct 2024),billing,United States,41318,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+9M FY2025 (to Oct 2024),billing,Singapore,17356,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+9M FY2025 (to Oct 2024),billing,Taiwan,15266,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+9M FY2025 (to Oct 2024),billing,China incl. Hong Kong,11574,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+9M FY2025 (to Oct 2024),billing,Other,5652,10Q-1024,https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm
+FY2025,billing,United States,61257,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2025,billing,Singapore,23684,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2025,billing,Taiwan,20573,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2025,billing,China incl. Hong Kong,17108,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2025,billing,Other,7875,10K25,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/R25.htm
+FY2024,headquarters,United States,31533,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2024,headquarters,Taiwan,14912,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2024,headquarters,China incl. Hong Kong,12330,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2024,headquarters,Other,2147,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+Q3 FY2025 (Oct 2024),headquarters,United States,19620,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+Q3 FY2025 (Oct 2024),headquarters,Taiwan,6188,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+Q3 FY2025 (Oct 2024),headquarters,China incl. Hong Kong,8142,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+Q3 FY2025 (Oct 2024),headquarters,Other,1132,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+9M FY2025 (to Oct 2024),headquarters,United States,53873,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+9M FY2025 (to Oct 2024),headquarters,Taiwan,17364,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+9M FY2025 (to Oct 2024),headquarters,China incl. Hong Kong,17230,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+9M FY2025 (to Oct 2024),headquarters,Other,2699,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+FY2025,headquarters,United States,77482,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2025,headquarters,Taiwan,23600,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2025,headquarters,China incl. Hong Kong,25048,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2025,headquarters,Other,4367,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2026,headquarters,United States,149617,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2026,headquarters,Taiwan,42345,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2026,headquarters,China incl. Hong Kong,19677,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+FY2026,headquarters,Other,4299,10K26,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm
+Q1 FY2026 (Apr 2025),billing,United States,20739,10Q-0425,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm
+Q1 FY2026 (Apr 2025),billing,Singapore,9017,10Q-0425,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm
+Q1 FY2026 (Apr 2025),billing,Taiwan,7158,10Q-0425,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm
+Q1 FY2026 (Apr 2025),billing,China incl. Hong Kong,5522,10Q-0425,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm
+Q1 FY2026 (Apr 2025),billing,Other,1626,10Q-0425,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm
+Q2 FY2026 (Jul 2025),billing,United States,23470,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+Q2 FY2026 (Jul 2025),billing,Singapore,10156,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+Q2 FY2026 (Jul 2025),billing,Taiwan,8529,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+Q2 FY2026 (Jul 2025),billing,China incl. Hong Kong,2769,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+Q2 FY2026 (Jul 2025),billing,Other,1819,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+Q2 FY2026 (Jul 2025),headquarters,United States,32897,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+Q2 FY2026 (Jul 2025),headquarters,Taiwan,8902,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+Q2 FY2026 (Jul 2025),headquarters,China incl. Hong Kong,3985,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+Q2 FY2026 (Jul 2025),headquarters,Other,959,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+H1 FY2026 (to Jul 2025),billing,United States,44209,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2026 (to Jul 2025),billing,Singapore,19173,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2026 (to Jul 2025),billing,Taiwan,15687,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2026 (to Jul 2025),billing,China incl. Hong Kong,8291,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2026 (to Jul 2025),billing,Other,3445,10Q-0725,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm
+H1 FY2026 (to Jul 2025),headquarters,United States,58582,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+H1 FY2026 (to Jul 2025),headquarters,Taiwan,16550,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+H1 FY2026 (to Jul 2025),headquarters,China incl. Hong Kong,13644,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+H1 FY2026 (to Jul 2025),headquarters,Other,2029,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+Q3 FY2026 (Oct 2025),headquarters,United States,39177,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+Q3 FY2026 (Oct 2025),headquarters,Taiwan,13751,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+Q3 FY2026 (Oct 2025),headquarters,China incl. Hong Kong,2973,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+Q3 FY2026 (Oct 2025),headquarters,Other,1105,10Q-1025,https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm
+Q2 FY2027 (Jul 2026),headquarters,United States,60074,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+Q2 FY2027 (Jul 2026),headquarters,Taiwan,26985,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+Q2 FY2027 (Jul 2026),headquarters,China incl. Hong Kong,7880,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm
+Q2 FY2027 (Jul 2026),headquarters,Other,1282,10Q-0726,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/R20.htm

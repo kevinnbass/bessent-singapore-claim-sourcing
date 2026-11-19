@@ -1,0 +1,13 @@
+{
+ "id": "man-ms-deals-sec-oct23-c628f7",
+ "address": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000221/nvda-20231023.htm",
+ "saved_utc": "2026-11-16T07:47:21Z",
+ "status": "hand-saved",
+ "pdf_sha256": "3dbe5cfe528d25eaa6687a6204339271882f29a00fd56b250d6b67c36fe8461f",
+ "pdf_bytes": 112480,
+ "pages": 4,
+ "files_in_this_folder": [
+  "text.txt",
+  "saved_copy.pdf"
+ ]
+}

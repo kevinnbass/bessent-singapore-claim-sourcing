@@ -1,0 +1,13 @@
+{
+ "id": "ms-sgwhy-iras-corporate-tax-rate",
+ "address": "https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/corporate-income-tax-rate-rebates-and-tax-exemption-schemes",
+ "fetched_utc": "2026-11-18T11:10:35Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 299730,
+ "sha256": "99c88234f930cffef475510279ac128635cd5520caffa71fec9014757bf1dde3",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.html"
+ ]
+}

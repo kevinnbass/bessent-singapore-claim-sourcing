@@ -1,0 +1,12 @@
+{
+ "id": "ms-sgp-nvda-q1fy26-call-transcript-pdf",
+ "address": "https://s201.q4cdn.com/141608511/files/doc_financials/2026/q1/NVDA-Q1-2026-Earnings-Call-28-May-2025-5_00-PM-ET.pdf",
+ "fetched_utc": "2026-11-18T05:19:41Z",
+ "status": 200,
+ "content_type": "application/pdf",
+ "bytes": 283943,
+ "sha256": "22cb530f2e7b3ee72c4fa6bd369ffc6dc687b263eef121b4305d5762a48c0c21",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "69462df8c39e319bdfb920905512137b181cd8ee1802f6d57d44a94045176344",
+ "files_in_this_folder": []
+}

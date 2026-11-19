@@ -1,0 +1,13 @@
+{
+ "id": "ms-sgp-20250129-house-letter-nsc-pdf",
+ "address": "https://chinaselectcommittee.house.gov/sites/evo-subsites/selectcommitteeontheccp.house.gov/files/evo-media-document/1.29.25%20Letter%20to%20NSC%20on%20DeepSeek.pdf",
+ "fetched_utc": "2026-11-18T05:19:34Z",
+ "status": 200,
+ "content_type": "application/pdf",
+ "bytes": 197120,
+ "sha256": "552aca5e232b7438d36cebb2cd6dd90a9a00eecb750c2bbeb1119a46cc49d21d",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.pdf"
+ ]
+}

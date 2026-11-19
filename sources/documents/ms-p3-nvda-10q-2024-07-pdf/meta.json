@@ -1,0 +1,13 @@
+{
+ "id": "ms-p3-nvda-10q-2024-07-pdf",
+ "address": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001045810/78501ce3-7816-4c4d-8688-53dd140df456.pdf",
+ "fetched_utc": "2026-11-18T00:16:12Z",
+ "status": 200,
+ "content_type": "application/pdf",
+ "bytes": 708766,
+ "sha256": "35d94221f0ed30f974b4fe6536fa54ff40945265d8b354b0ae17066c8856a861",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.pdf"
+ ]
+}

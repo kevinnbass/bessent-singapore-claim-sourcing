@@ -1,0 +1,37 @@
+company,fiscal_year,period_mid,span,singapore_usd_m,total_usd_m,basis,source_kind,source,note
+Intel,2010,2010.5,year,10740,43623,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000119312513065416/R36.htm,10-K for fiscal 2012
+Intel,2011,2011.5,year,13626,53999,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086314000020/R35.htm,10-K for fiscal 2013
+Intel,2012,2012.5,year,12622,53341,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086315000015/R34.htm,10-K for fiscal 2014
+Intel,2013,2013.5,year,10997,52708,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086316000105/R34.htm,10-K for fiscal 2015
+Intel,2014,2014.5,year,11573,55870,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086317000012/R12.htm,10-K for fiscal 2016
+Intel,2015,2015.5,year,11544,55355,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086318000007/R12.htm,10-K for fiscal 2017
+Intel,2016,2016.5,year,12780,59387,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086319000007/R12.htm,10-K for fiscal 2018
+Intel,2017,2017.5,year,14285,62761,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086320000011/R12.htm,10-K for fiscal 2019
+Intel,2018,2018.5,year,15409,70848,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086321000010/R11.htm,10-K for fiscal 2020
+Intel,2019,2019.5,year,15650,71965,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086322000007/R12.htm,10-K for fiscal 2021
+Intel,2020,2020.5,year,17845,77867,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086323000006/R12.htm,10-K for fiscal 2022
+Intel,2021,2021.5,year,18096,79024,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086323000006/R12.htm,"10-K for fiscal 2022, as adjusted there; the 10-K for fiscal 2021 first gave 14254"
+Intel,2022,2022.5,year,9664,63054,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/R12.htm,10-K for fiscal 2024
+Intel,2023,2023.5,year,8602,54228,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/R12.htm,10-K for fiscal 2025
+Intel,2024,2024.5,year,10187,53101,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/R12.htm,10-K for fiscal 2025
+Intel,2025,2025.5,year,9535,52853,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/R12.htm,10-K for fiscal 2025
+AMD,2010,2010.5,year,875,6494,not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000119312513069422/R20.htm,10-K for fiscal 2012
+AMD,2011,2011.5,year,1056,6568,not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000119312514057240/R21.htm,10-K for fiscal 2013
+AMD,2012,2012.5,year,856,5422,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000119312515054362/R20.htm,10-K for fiscal 2014
+AMD,2013,2013.5,year,610,5299,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248816000111/R20.htm,10-K for fiscal 2015
+AMD,2014,2014.5,year,371,5506,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/R23.htm,10-K for fiscal 2016
+AMD,2015,2015.5,year,356,3991,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/R23.htm,10-K for fiscal 2017
+AMD,2016,2016.5,year,569,4319,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248819000011/R24.htm,"10-K for fiscal 2018, recast; first given as 571 of 4272"
+AMD,2017,2017.5,year,550,5253,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/R22.htm,"10-K for fiscal 2019, recast; first given as 551 of 5329"
+AMD,2018,2018.5,year,728,6475,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000162828021001185/R21.htm,10-K for fiscal 2020
+AMD,2019,2019.5,year,597,6731,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/R22.htm,10-K for fiscal 2021
+AMD,2020,2020.5,year,1096,9763,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/R21.htm,10-K for fiscal 2022
+AMD,2021,2021.5,year,1389,16434,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248824000012/R20.htm,10-K for fiscal 2023
+AMD,2022,2022.5,year,1380,23601,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248825000012/R12.htm,10-K for fiscal 2024
+AMD,2023,2023.5,year,2231,22680,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/R12.htm,10-K for fiscal 2025
+AMD,2024,2024.5,year,3614,25785,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/R12.htm,10-K for fiscal 2025
+AMD,2025,2025.5,year,4284,34639,billing location of the customer,web-reader reading,https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/R12.htm,10-K for fiscal 2025
+Nvidia,FY2023,2022.57,year,2288,26974,billing location of the customer,fact store (nvidia_geo_revenue.csv),10-K for fiscal 2025,"year ended Jan 29, 2023; first given in the 10-K for fiscal 2025"
+Nvidia,FY2024,2023.57,year,6831,60922,billing location of the customer,fact store (nvidia_geo_revenue.csv),10-K for fiscal 2025,"year ended Jan 28, 2024"
+Nvidia,FY2025,2024.57,year,23684,130497,billing location of the customer,fact store (nvidia_geo_revenue.csv),10-K for fiscal 2025 (saved copy man-ms-sec-10k-fy2025),"year ended Jan 26, 2025"
+Nvidia,H1 FY2026,2025.32,half year,19173,90805,billing location of the customer,fact store (nvidia_geo_revenue.csv),10-Q for the quarter to Jul 27 2025 (saved copy man-ms-sec-10q-2025-07),"six months ended Jul 27, 2025; the last period reported on this basis"

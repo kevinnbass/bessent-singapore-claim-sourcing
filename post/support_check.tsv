@@ -1,0 +1,45 @@
+reference	key	result	words_of_the_source
+3	h20_8k	found	On April 9, 2025, the U.S. government, or USG, informed NVIDIA Corporation
+6	ifp_hopper	found	The H200 would be almost 6x as powerful as the H20
+7	q1fy26	found	Sales of our H20 products were $4.6 billion for the first quarter of fiscal year 2026 prior to the new export licensing requirements
+7	q1fy26	found	5,522
+2	q2fy26	found	2,769
+2	q2fy26	found	10,156
+9	q3fy26	found	/s/ Colette M. Kress
+9	q3fy26	found	Date: November 19, 2025
+9	q3fy26	found	Customer Headquarters Location
+28	q3fy24	found	Date: November 21, 2023
+18	k_fy25	found	23,684
+18	k_fy25	found	6,831
+18	k_fy25	found	2,288
+25	kress_interim	found	Nvidia's board appointed finance chief Colette Kress as interim CEO
+26	epoch	found	outside the company
+19	tan_reply	found	less than 1% of Nvidia's overall revenue
+21	iras_rate	found	17%
+22	hansard	found	Our customers are billed by the Singapore group
+23	iras_guide	found	Centralised Activities in Multinational Enterprise Groups
+34	importai	found	broadly matches OpenAI's o1 model
+42	call_q1	found	billed to Singapore was for orders from US-based customers
+43	call_q2	found	billed to Singapore was for US-based customers
+58	ft_midterms	found	Republicans lost control of both the US Senate and House of Representatives in the midterm elections
+59	wsj_weakened	found	a midterm loss that was more sweeping
+62	substrate	found	smuggling and remote access together make up about 45% of China's compute
+62	substrate	found	about 16 times as much compute
+63	techcrunch1113	found	bear fingerprints from training on Blackwell chips
+64	ifp_lead	found	The total US-to-China compute ratio would then rise from about 9x to 13x
+67	nyt_loophole	found	at odds with Treasury Secretary Scott Bessent, Secretary of State Marco Rubio
+68	reuters_axios	found	Situation Room
+41	nvda_x	found	Wed Apr 16
+35	bloomberg_edge	found	Bloomberg
+4	q1fy25	found	we are still constrained on H200
+5	q3fy25	found	Blackwell production shipments are scheduled to begin in the fourth quarter of fiscal year 2025
+33	bis_oct2022	found	Effective on October 7, 2022
+60	amodei_tc	found	selling nuclear weapons to North Korea
+61	amodei_register	found	Selling H200s to China is like giving nukes to North Korea
+65	q2fy27	found	such sales were restricted by the PRC government
+6	ifp_hopper	found	Chinese regulators have banned imports of the H20 and RTX 6000D
+66	ft_china_effort	found	Chinese regulators moved to restrict the import and use of less advanced Nvidia chips
+69	reuters_doj	found	has not concluded Alice Huang was Chinese spy
+25	kress_interim	found	had a relationship with a second employee
+13	fed_h10	found	30-DEC-22 30.7300
+32	csis	found	operate all of the purchased chips

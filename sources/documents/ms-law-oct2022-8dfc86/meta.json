@@ -1,0 +1,13 @@
+{
+ "id": "ms-law-oct2022-8dfc86",
+ "address": "https://public-inspection.federalregister.gov/2022-21658.pdf",
+ "fetched_utc": "2026-11-16T06:13:07Z",
+ "status": 200,
+ "content_type": "application/pdf",
+ "bytes": 543822,
+ "sha256": "3cd4f3f355f26a45b131c4d91209799d204f120c2394b17777b40196596a948c",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.pdf"
+ ]
+}

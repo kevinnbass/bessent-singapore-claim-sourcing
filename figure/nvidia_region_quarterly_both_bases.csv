@@ -1,0 +1,24 @@
+quarter_ended,basis,united_states,singapore,taiwan,china_incl_hong_kong,other,total,derived,source
+2022-05-01,billing,1932,454,2777,2081,1044,8288,no,10-Q for the quarter ended Apr 30 2023 prior-year column (ms-p3-nvda-10q-2023-04-pdf)
+2022-07-31,billing,1989,973,1204,1602,936,6704,yes,"nine months to Oct 30 2022 (10-Q for the quarter ended Oct 29 2023 prior-year column, ms-p3-nvda-10q-2023-10-pdf) less the quarters to May 1 2022 and Oct 30 2022"
+2022-10-30,billing,2148,536,1153,1148,946,5931,no,10-Q for the quarter ended Oct 29 2023 prior-year column (ms-p3-nvda-10q-2023-10-pdf)
+2023-01-29,billing,2223,325,1852,954,697,6051,yes,10-K for fiscal 2025 fiscal-2023 column (man-ms-sec-10k-fy2025) less nine months to Oct 30 2022
+2023-04-30,billing,2385,762,1796,1590,659,7192,no,10-Q for the quarter ended Apr 30 2023 (ms-p3-nvda-10q-2023-04-pdf)
+2023-07-30,billing,6043,1042,2839,2740,843,13507,no,10-Q for the quarter ended Jul 28 2024 prior-year column (ms-p3-nvda-10q-2024-07-pdf)
+2023-10-29,billing,6302,2702,4333,4030,753,18120,no,10-Q for the quarter ended Oct 29 2023 (ms-p3-nvda-10q-2023-10-pdf)
+2024-01-28,billing,12236,2325,4437,1946,1159,22103,yes,10-K for fiscal 2025 fiscal-2024 column (man-ms-sec-10k-fy2025) less nine months to Oct 29 2023
+2024-04-28,billing,13496,4037,4373,2491,1647,26044,no,10-Q for the quarter ended Apr 28 2024 (ms-p3-nvda-10q-2024-04-pdf)
+2024-07-28,billing,13022,5622,5740,3667,1989,30040,no,10-Q for the quarter ended Jul 28 2024 (ms-p3-nvda-10q-2024-07-pdf)
+2024-10-27,billing,14800,7697,5153,5416,2016,35082,no,10-Q for the quarter ended Oct 27 2024 (man-ms-nvda-2024q3-10q-58a58e)
+2025-01-26,billing,19939,6328,5307,5534,2223,39331,yes,10-K for fiscal 2025 (man-ms-sec-10k-fy2025) less nine months to Oct 27 2024
+2025-04-27,billing,20739,9017,7158,5522,1626,44062,no,10-Q for the quarter ended Apr 27 2025 (man-ms-sec-10q-2025-04)
+2025-07-27,billing,23470,10156,8529,2769,1819,46743,no,10-Q for the quarter ended Jul 27 2025 (man-ms-sec-10q-2025-07)
+2024-10-27,headquarters,19620,,6188,8142,1132,35082,no,10-Q signed Nov 19 2025 prior-year column (man-ms-sec-10q-2025-10)
+2025-01-26,headquarters,23609,,6236,7818,1668,39331,yes,10-K for fiscal 2026 fiscal-2025 column (man-ms-sec-10k-fy2026) less nine months to Oct 27 2024
+2025-04-27,headquarters,25685,,7648,9659,1070,44062,no,10-Q for the quarter ended Apr 26 2026 prior-year column (man-ms-sec-10q-2026-04)
+2025-07-27,headquarters,32897,,8902,3985,959,46743,no,10-Q for the quarter ended Jul 26 2026 prior-year column (man-ms-sec-10q-2026-07)
+2025-10-26,headquarters,39177,,13751,2973,1105,57006,no,10-Q signed Nov 19 2025 (man-ms-sec-10q-2025-10)
+2026-01-25,headquarters,51858,,12044,3060,1165,68127,yes,10-K for fiscal 2026 (man-ms-sec-10k-fy2026) less nine months to Oct 26 2025
+2026-04-26,headquarters,63769,,12006,4550,1290,81615,no,10-Q for the quarter ended Apr 26 2026 (man-ms-sec-10q-2026-04)
+2026-07-26,headquarters,60074,,26985,7880,1282,96221,no,10-Q for the quarter ended Jul 26 2026 (man-ms-sec-10q-2026-07)
+2026-10-25,headquarters,72899,,30295,11050,1600,115844,no,Form 8-K of Nov 17 2026 (ms-p3-nvda-8k-20261117-pdf)

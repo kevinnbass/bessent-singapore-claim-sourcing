@@ -1,0 +1,13 @@
+{
+ "id": "man-ms-sec-10q-2026-04",
+ "address": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+ "saved_utc": "2026-11-16T07:45:26Z",
+ "status": "hand-saved",
+ "pdf_sha256": "c2113466e5c4e6d4e567a619cb2109912134cf7235e80b0efe5b15b61f8e29d3",
+ "pdf_bytes": 1407459,
+ "pages": 59,
+ "files_in_this_folder": [
+  "text.txt",
+  "saved_copy.pdf"
+ ]
+}

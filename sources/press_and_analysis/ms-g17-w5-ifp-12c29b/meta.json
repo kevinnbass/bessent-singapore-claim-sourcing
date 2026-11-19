@@ -1,0 +1,12 @@
+{
+ "id": "ms-g17-w5-ifp-12c29b",
+ "address": "https://ifp.org/should-the-us-sell-hopper-chips-to-china/",
+ "fetched_utc": "2026-11-17T01:34:33Z",
+ "status": 200,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 579980,
+ "sha256": "02cb94c03261407c75888c399d3f554b912b025f9b6b2044a7328281ddea6f13",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "9bc137a628017f1b50e5fd35f0f24020cda7348988cd79a50f0099a443ecf865",
+ "files_in_this_folder": []
+}

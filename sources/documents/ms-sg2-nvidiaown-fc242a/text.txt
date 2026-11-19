@@ -1,0 +1,103 @@
+URL: https://x.com/nvidianewsroom/status/1912614585204633609
+FETCHED: 2026-11-18T06:01:04Z
+STATUS: 200
+
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/nvidianewsroom/status/1912614585204633609",
+  "id": "1912614585204633609",
+  "text": "A statement from NVIDIA on the House Select Committee report and inquiry.",
+  "raw_text": {
+   "text": "A statement from NVIDIA on the House Select Committee report and inquiry. https://t.co/XqwIPu4NXa",
+   "display_text_range": [
+    0,
+    73
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      74,
+      97
+     ],
+     "id": "1912614580779409408",
+     "display": "pic.x.com/XqwIPu4NXa",
+     "original": "https://t.co/XqwIPu4NXa",
+     "replacement": "https://x.com/nvidianewsroom/status/1912614585204633609/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "nvidianewsroom",
+   "url": "https://x.com/nvidianewsroom",
+   "id": "1897072581301424128",
+   "followers": 98922,
+   "following": 37,
+   "likes": 755,
+   "media_count": 307,
+   "name": "NVIDIA Newsroom",
+   "description": "The official newsroom for NVIDIA. Innovation delivered daily.",
+   "raw_description": {
+    "text": "The official newsroom for NVIDIA. Innovation delivered daily.",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1897072581301424128/1742223577",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2081770046141919232/XxJ5pb1I_200x200.jpg",
+   "joined": "Tue Mar 04 23:58:40 +0000 2025",
+   "protected": false,
+   "website": {
+    "url": "https://nvidianews.nvidia.com/",
+    "display_url": "nvidianews.nvidia.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "organization"
+   },
+   "avatar_color": null
+  },
+  "replies": 24,
+  "retweets": 70,
+  "likes": 516,
+  "bookmarks": 65,
+  "quotes": 20,
+  "created_at": "Wed Apr 16 21:10:26 +0000 2025",
+  "created_timestamp": 1744837826,
+  "possibly_sensitive": false,
+  "views": 104297,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "1912614580779409408",
+     "url": "https://pbs.twimg.com/media/Gor40-eW4AAUSZ7.jpg?name=orig",
+     "width": 1080,
+     "height": 1080,
+     "altText": "A statement from NVIDIA on the House Select Committee report and inquiry. \n\nThe U.S. government instructs American businesses on what they can sell and where—we follow the government’s directions to the letter. NVIDIA protects and enhances national security by creating U.S. jobs and infrastructure, promoting U.S. technology leadership, bringing billions of dollars of tax revenue to the U.S. treasury, and alleviating the massive U.S. trade deficit. The technology industry supports America when it exports to well-known companies worldwide—if the government felt otherwise, it would instruct us. Our reported Singapore revenue indicates the billing address, often for subsidiaries of our U.S. customers. The associated products are shipped to other locations, including the United States and Taiwan, not to China."
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "1912614580779409408",
+     "url": "https://pbs.twimg.com/media/Gor40-eW4AAUSZ7.jpg?name=orig",
+     "width": 1080,
+     "height": 1080,
+     "altText": "A statement from NVIDIA on the House Select Committee report and inquiry. \n\nThe U.S. government instructs American businesses on what they can sell and where—we follow the government’s directions to the letter. NVIDIA protects and enhances national security by creating U.S. jobs and infrastructure, promoting U.S. technology leadership, bringing billions of dollars of tax revenue to the U.S. treasury, and alleviating the massive U.S. trade deficit. The technology industry supports America when it exports to well-known companies worldwide—if the government felt otherwise, it would instruct us. Our reported Singapore revenue indicates the billing address, often for subsidiaries of our U.S. customers. The associated products are shipped to other locations, including the United States and Taiwan, not to China."
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

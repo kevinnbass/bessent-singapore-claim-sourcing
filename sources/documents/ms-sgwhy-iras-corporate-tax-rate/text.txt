@@ -1,0 +1,10 @@
+URL: https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/corporate-income-tax-rate-rebates-and-tax-exemption-schemes
+FETCHED: 2026-11-18T11:10:35Z
+STATUS: 200
+TITLE: IRAS | Corporate Income Tax Rate, Rebates & Tax Exemption Schemes
+PUBLISHED: 
+MODIFIED: 
+AUTHOR: 
+DESCRIPTION: Singapore’s Corporate Income Tax rate is 17%. Companies may enjoy tax rebates and tax exemption schemes e.g. for new start-up companies.
+
+

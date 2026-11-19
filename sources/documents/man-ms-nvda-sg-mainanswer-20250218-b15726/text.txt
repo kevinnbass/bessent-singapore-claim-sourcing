@@ -1,0 +1,194 @@
+URL: https://www.meti.gov.sg/newsroom/oral-reply-to-pqs-on-singapore-s-approach-to-export-controls/
+ROUTE: saved by hand in a browser as PDF (Oral reply to PQs on Singapore’s approach to export controls _ Ministry of Energy, Trade and Industry.pdf)
+SAVED: 2026-11-16T07:48:13Z
+STATUS: hand-saved
+TITLE: 
+OUTLET: Oral reply to PQs on Singapore’s approach to export controls _ Ministry of Energy, Trade and Industry
+PUBLISHED: 2025-02-18
+AUTHOR: 
+EXTENT: full
+
+Oral reply to PQs on Singapore’s approach to export contro...
+
+1 of 5
+
+https://www.meti.gov.sg/newsroom/oral-reply-to-pqs-on-s...
+
+A Singapore Government Agency Website How to identify
+
+Government officials will never ask you to transfer money or disclose bank log-in
+details over a phone call.
+
+Call the 24/7 ScamShield Helpline at 1799 if you are unsure if something is a
+scam.
+Our website has moved to www.meti.gov.sg as of 1 October 2026. Please
+update your bookmarks and saved links.
+
+Home
+
+Newsroom
+
+Oral reply to PQs on Singaporeʼs approach to export controls
+
+3. Parliamentary replies
+
+Oral reply to PQs on Singaporeʼs approach to
+export controls
+18 February 2025
+
+This article has been migrated from an earlier version of the site and may
+display formatting inconsistencies.
+Questions
+Mr Yip Hon Weng: To ask the Deputy Prime Minister and Minister for Trade and
+Industry (a) how does the Ministry ensure that the ease of doing business in
+Singapore is not exploited by companies seeking to bypass US trade restrictions; and
+(b) whether the Ministry can provide an update on its assessment of the effects of the
+US chips export control rules on our semiconductor industry and the broader
+economy.
+Ms Joan Pereira: To ask the Deputy Prime Minister and Minister for Trade and
+Industry whether there are measures in place to ensure that entities operating in
+Singapore are compliant with export controls and international laws in order to protect
+
+11/16/26, 01:48
+
+Oral reply to PQs on Singapore’s approach to export contro...
+
+2 of 5
+
+https://www.meti.gov.sg/newsroom/oral-reply-to-pqs-on-s...
+
+Singaporeʼs status as a well-respected international business hub.
+Assoc Prof Jamus Jerome Lim: To ask the Deputy Prime Minister and Minister for
+Trade and Industry (a) whether the Ministry is aware that Singapore will be placed
+under the new US AI export controls' Tier Two status; (b) whether it is a specific
+foreign policy objective of this Government to secure (i) the National Validated EndUser status and (ii) Tier One reclassification under these controls; and (c) what
+specific technical and regulatory enhancements, if any, have been communicated by
+US counterparts as prerequisites for such status changes.
+Assoc Prof Jamus Jerome Lim: To ask the Deputy Prime Minister and Minister for
+Trade and Industry in light of how US agencies have flagged Singapore as a hub for
+illicit chip transshipments to blacklisted Chinese AI firms (a) whether the Government
+is able to (i) disclose the foreign policy rationales behind its regulatory stance with
+regard to re-exports of such chips since 2023 and (ii) detail any or all inter-agency
+decisions that led to this situation; and (b) how does the Government intend to rectify
+any damage to Singaporeʼs credibility and ties with the US arising from such reports.
+Oral Answer (to be attributed to Second Minister for Trade and Industry Dr Tan See
+Leng)
+1. Mr Speaker, may I have your permission to answer Oral Questions Nos 3 to 6 on
+todayʼs Order Paper, filed by Members Mr Yip Hon Weng, Ms Joan Pereira, and Prof
+Jamus Lim, together please. These pertain to questions over US export controls, and
+Singaporeʼs approach to such measures. My response today will also cover a similar
+PQ that has been filed by Mr Mark Lee that has been scheduled for a subsequent
+sitting.
+2. Singapore is a stable, trusted, reliable and well-connected international business
+hub. Our economic competitiveness is based on our commitment to the rule of law,
+zero tolerance for corruption, transparent regulations and an open inclusive business
+environment. We have painstakingly built up this reputation over time. That is why we
+take firm and decisive action against individuals and companies that violate our laws.
+It is the foundation of our competitiveness.
+3. Questions have been raised about Nvidia chips that were subject to US export
+controls. We are scrutinising this issue carefully and will continue to do so. So far, our
+checks indicate that physical delivery of products sold by Nvidia to Singapore
+represent less than 1% of Nvidiaʼs overall revenue. These are mainly deployed in
+Singapore for major enterprises and the Singapore government. We understand that
+the remainder of Nvidiaʼs revenue billed to business entities in Singapore did not
+involve physical shipments into Singapore. If a company in Singapore is engaged in
+
+11/16/26, 01:48
+
+Oral reply to PQs on Singapore’s approach to export contro...
+
+3 of 5
+
+https://www.meti.gov.sg/newsroom/oral-reply-to-pqs-on-s...
+
+deceptive or dishonest practices to evade export controls that it is subject to, we will
+investigate and take the appropriate action in accordance with Singapore laws. It is in
+our national interest to secure access to leading edge technology and to maintain the
+integrity of our business environment.
+4. Within Singapore, the transfer and brokering of strategic goods and technology is
+governed by the Strategic Goods Control) Act. This is a robust framework that is
+aligned with major multilateral export control regimes, including those imposed by the
+United Nations Security Council.
+5. Outside of these multilateral regimes, countries sometimes impose unilateral export
+controls on specific items. The USʼ export controls on advanced semiconductor chips
+are one example.
+6. Under these rules, the US expects companies to ensure their business transactions
+adhere to their requirements, including doing the required KYCs on the buyers of the
+advanced semiconductor chips. While we currently do not have legal obligations to
+enforce the unilateral export controls of other countries, we expect all companies
+operating in Singapore to take into account such regulations if they apply to their
+international business activities. Their international business activities should be
+conducted transparently. We certainly do not condone businesses deliberately using
+their association with Singapore to circumvent or violate the export controls of other
+countries. At the operational level, Singapore Customs works closely with its foreign
+counterparts, including those from the US, to address their concerns and facilitate
+their investigations where appropriate, and to the extent our law permits. It is
+important to emphasise that this open, inclusive and transparent regulatory regime
+applies to all our trading partners.
+7. Some members also had questions about the economic impact on Singapore
+arising from US controls on advanced semiconductor chips. There is limited impact in
+terms of our ability to manufacture and export chips. The USʼ current technology
+controls are aimed at a narrow subset of advanced semiconductor chips, whereas
+Singaporeʼs semiconductor industry focuses on producing mature node chips which
+are used globally in appliances, automotives and industrial equipment.
+8. However, in terms of access to advanced AI compute – for example Nvidia H100
+Graphics Processing Units, or GPUs for short – the previous US Administration had
+introduced an Artificial Intelligence AI Diffusion Rule in January 2025 aimed at
+managing access to H100 or equivalent GPUs on a country-level basis. Singapore, like
+around 150 countries, has been classified as Tier Two. The details of the US AI
+Diffusion rule have not yet been finalised by the current US Administration, and the
+US has not communicated any specific requirements as prerequisites for changes to
+
+11/16/26, 01:48
+
+Oral reply to PQs on Singapore’s approach to export contro...
+
+4 of 5
+
+https://www.meti.gov.sg/newsroom/oral-reply-to-pqs-on-s...
+
+countriesʼ tiering classifications.
+9. Our objective is to ensure adequate access to AI compute by both local and
+international companies with operations in Singapore. We will ensure that USheadquartered cloud hyperscalers can continue to operate in Singapore as Universal
+Verified End Users, and also support local companies that wish to apply to be
+National Verified End Users with access to AI compute.
+10. In closing, I wish to assure Members that we will continue to work with companies
+based in Singapore to facilitate their access to advanced semiconductor chips and
+technologies from all the major source countries. We will also continue to engage the
+US Administration to address their concerns.
+
+Back to top
+
+Ministry of Energy, Trade and Industry
+Who We Are
+Trade & International Economic Relations
+Industry
+Energy & Carbon
+Newsroom
+Resources
+Reach us
+
+Contact
+Feedback
+
+11/16/26, 01:48
+
+Oral reply to PQs on Singapore’s approach to export contro...
+
+5 of 5
+
+https://www.meti.gov.sg/newsroom/oral-reply-to-pqs-on-s...
+
+© 2026 Government of Singapore, last updated on 16 November 2026
+
+Report Vulnerability
+Privacy Statement
+Terms of Use
+REACH
+Made with
+
+Built by
+
+11/16/26, 01:48
+
+

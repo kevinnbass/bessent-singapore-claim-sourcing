@@ -1,0 +1,12 @@
+{
+ "id": "ms-sg2-deepseekasia-679f1b",
+ "address": "https://www.straitstimes.com/world/us-probe-on-spore-shows-frustration-over-inadequacy-of-chips-restrictions-on-china",
+ "fetched_utc": "2026-11-18T06:01:54Z",
+ "status": 200,
+ "content_type": "text/html; charset=utf-8",
+ "bytes": 156013,
+ "sha256": "805df3c492d45f50f7dd6f98e34f58e0800a194ab7eb9628fbd347e928c84ea6",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "187a528f8c01ebd8192a492c73c10f83c52cd7142ec0aa75e0a4496d67251416",
+ "files_in_this_folder": []
+}

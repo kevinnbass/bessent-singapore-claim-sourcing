@@ -1,0 +1,12 @@
+{
+ "id": "sw-techcrunchcom-04",
+ "address": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+ "fetched_utc": "2026-11-12T19:15:01Z",
+ "status": 200,
+ "content_type": "text/html; charset=UTF-8",
+ "bytes": 243370,
+ "sha256": "e8d9678345b58dd902eed64959c1c82f176aebf6690ec188a7a7019af6e5ddfa",
+ "text_in_this_copy": "no: the page belongs to its publisher; the address and the hash of the copy that was checked are given",
+ "text_sha256_of_the_copy_checked": "2315898bd3f5e33cb15a245e54b39990c9f95102cac19e8805711d17b8097ffd",
+ "files_in_this_folder": []
+}

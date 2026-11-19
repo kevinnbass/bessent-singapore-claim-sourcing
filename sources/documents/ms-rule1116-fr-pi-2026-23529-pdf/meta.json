@@ -1,0 +1,13 @@
+{
+ "id": "ms-rule1116-fr-pi-2026-23529-pdf",
+ "address": "https://public-inspection.federalregister.gov/2026-23529.pdf",
+ "fetched_utc": "2026-11-16T21:54:19Z",
+ "status": 200,
+ "content_type": "application/pdf",
+ "bytes": 527146,
+ "sha256": "348ecda38fde4610caa348bda6a16688d95549f1dabac37d05f3c3ca91d29a14",
+ "files_in_this_folder": [
+  "text.txt",
+  "body.pdf"
+ ]
+}

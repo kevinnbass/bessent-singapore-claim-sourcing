@@ -1,0 +1,44 @@
+company,fiscal_year,singapore_usd_m,total_usd_m,basis,source_kind,source,note
+ON Semiconductor,2018,1955.0,5878.3,sales billed from the respective country (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1097864/000162828021002219/R9.htm,10-K for 2020
+ON Semiconductor,2019,1713.1,5517.9,sales billed from the respective country (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1097864/000162828021002219/R9.htm,10-K for 2020
+ON Semiconductor,2020,1799.5,5255.0,sales billed from the respective country (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1097864/000162828023002350/R11.htm,10-K for 2022
+ON Semiconductor,2021,2097.8,6739.8,sales billed from the respective country (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1097864/000162828023002350/R11.htm,10-K for 2022
+ON Semiconductor,2022,2133.9,8326.2,sales billed from the respective country (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1097864/000162828023002350/R11.htm,10-K for 2022
+ON Semiconductor,2023,1938.8,8253.0,sales billed from the respective country (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1097864/000109786426000006/R11.htm,10-K for 2025; read twice
+ON Semiconductor,2024,1733.2,7082.3,sales billed from the respective country (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1097864/000109786426000006/R11.htm,10-K for 2025; read twice
+ON Semiconductor,2025,1252.4,5995.4,sales billed from the respective country (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1097864/000109786426000006/R11.htm,10-K for 2025; read twice
+Seagate,FY2021,5180,10681,bill from location (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1137789/000113778923000049/R25.htm,10-K for fiscal 2023; read twice
+Seagate,FY2022,5322,11661,bill from location (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1137789/000113778923000049/R25.htm,10-K for fiscal 2023; read twice
+Seagate,FY2023,3271,7384,bill from location (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1137789/000113778923000049/R25.htm,10-K for fiscal 2023; read twice
+NXP,2020,1064,8612,customer's shipped-to location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344723000006/R30.htm,10-K for 2022
+NXP,2021,1269,11063,customer's shipped-to location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344723000006/R30.htm,10-K for 2022
+NXP,2022,1444,13205,customer's shipped-to location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344723000006/R30.htm,10-K for 2022
+NXP,2023,861,13276,location where the sale originated,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344726000008/R31.htm,10-K for 2025; basis changed after the 2022 report
+NXP,2024,758,12614,location where the sale originated,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344726000008/R31.htm,10-K for 2025
+NXP,2025,714,12269,location where the sale originated,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344726000008/R31.htm,10-K for 2025
+Marvell,FY2020,80.1,2699.2,destination of shipment,web-reader reading,https://www.sec.gov/Archives/edgar/data/1835632/000183563222000016/R11.htm,10-K for fiscal 2022
+Marvell,FY2021,107.6,2968.9,destination of shipment,web-reader reading,https://www.sec.gov/Archives/edgar/data/1835632/000183563222000016/R11.htm,10-K for fiscal 2022
+Marvell,FY2022,220.8,4462.4,destination of shipment,web-reader reading,https://www.sec.gov/Archives/edgar/data/1835632/000183563223000013/R11.htm,10-K for fiscal 2023
+Marvell,FY2023,331.7,5919.6,destination of shipment,web-reader reading,https://www.sec.gov/Archives/edgar/data/1835632/000183563225000057/R12.htm,10-K for fiscal 2025; read twice
+Marvell,FY2024,336.2,5507.7,destination of shipment,web-reader reading,https://www.sec.gov/Archives/edgar/data/1835632/000183563225000057/R12.htm,10-K for fiscal 2025; read twice
+Marvell,FY2025,452.2,5767.3,destination of shipment,web-reader reading,https://www.sec.gov/Archives/edgar/data/1835632/000183563225000057/R12.htm,"10-K for fiscal 2025; read twice; the 10-K for fiscal 2026 has no Singapore row (countries under 10% are in Other)"
+NXP,2023 (ship-to),884,13276,customer's shipped-to location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344725000019/R30.htm,10-K for 2024; the same year on the old basis; China 4366
+NXP,2024 (ship-to),593,12614,customer's shipped-to location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344725000019/R30.htm,10-K for 2024; the same year on the old basis; China 4556
+Amkor,2013,496.601,2956.450,customer location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1047127/000104712716000049/R26.htm,10-K for 2015
+Amkor,2014,432.942,3129.440,customer location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1047127/000104712716000049/R26.htm,10-K for 2015
+Amkor,2015,449.570,2884.603,customer location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1047127/000104712716000049/R26.htm,"10-K for 2015; the 10-K for 2016 is by customer headquarters location and has no Singapore row"
+Seagate,FY2024,3429,6551,bill from location (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1137789/000113778925000157/R83.htm,10-K for fiscal 2025 (Revenue note)
+Seagate,FY2025,3759,9097,bill from location (the seller's side),web-reader reading,https://www.sec.gov/Archives/edgar/data/1137789/000113778925000157/R83.htm,10-K for fiscal 2025 (Revenue note); the line did not vanish
+UMC (NT$ millions),2015,18316.785,144830.421,basis not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/1033767/000119312518132616/R113.htm,"20-F for 2017"
+UMC (NT$ millions),2016,26753.960,147870.124,basis not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/1033767/000119312518132616/R113.htm,"20-F for 2017"
+UMC (NT$ millions),2017,30798.270,149284.706,basis not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/1033767/000119312518132616/R113.htm,"20-F for 2017"
+UMC (NT$ millions),2018,24820.196,151252.571,basis not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/1033767/000156459021021578/R78.htm,"20-F for 2020"
+UMC (NT$ millions),2019,23979.343,148201.641,basis not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/1033767/000156459021021578/R78.htm,"20-F for 2020"
+UMC (NT$ millions),2020,26054.856,176820.914,basis not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/1033767/000119312523119772/R78.htm,"20-F for 2022"
+UMC (NT$ millions),2021,29068.748,213011.018,basis not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/1033767/000119312523119772/R78.htm,"20-F for 2022"
+UMC (NT$ millions),2022,39093.439,278705.264,basis not stated on the page,web-reader reading,https://www.sec.gov/Archives/edgar/data/1033767/000119312523119772/R78.htm,"20-F for 2022; the 20-F for 2023 is by customer headquarters and has no Singapore row"
+Amkor,2010,643.496,2939.483,customer location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1047127/000104712713000007/R27.htm,10-K for 2012
+Amkor,2011,539.467,2776.359,customer location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1047127/000104712713000007/R27.htm,10-K for 2012
+Amkor,2012,452.737,2759.546,customer location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1047127/000104712713000007/R27.htm,10-K for 2012
+NXP,2018,1220,9407,customer's shipped-to location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344721000011/R30.htm,10-K for 2020; China 3430; United States 919
+NXP,2019,1006,8877,customer's shipped-to location,web-reader reading,https://www.sec.gov/Archives/edgar/data/1413447/000141344721000011/R30.htm,10-K for 2020; China 3147; United States 840
