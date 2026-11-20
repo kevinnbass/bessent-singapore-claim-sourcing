@@ -1,38 +1,38 @@
 line	result	marker_after_it	quotation
-17	found in [1]	1	And you can see from the Nvidia accounts — which they stopped publishing, by the way, they stopped publishing — their Chinese sales crashed, and then the Singaporean sales went through the roof. And I've seen reporting that only 1% of the chips sold in Singapore remained in Singapore.
-21	found in [1],[27] (repeated away from its marker; same words, punctuation differs)	2	their Chinese sales crashed and then the Singaporean sales went through the roof.
-25	"WORDS DIFFER: the filing reads ""the U.S. government, or USG, informed us"" [2]"	2	In April 2025, the U.S. government informed us that a license is required for exports of our H20 product into the China market.
-35	found in [1],[27] (repeated away from its marker)	8	went through the roof
-43	found in [1],[27] (repeated away from its marker; same words, punctuation differs)	8	their Chinese sales crashed and then the Singaporean sales went through the roof
-98	found in [1] (repeated away from its marker)		I've seen reporting that only 1% of the chips sold in Singapore remained in Singapore.
-106	found in [1],[27] (repeated away from its marker)	19,20	I've seen reporting
-112	found in [19]	19	Our checks indicate that physical delivery of products sold by Nvidia to Singapore represent less than 1% of Nvidiaʼs overall revenue. These are mainly deployed in Singapore for major enterprises and the Singapore government. We understand that the remainder of Nvidiaʼs revenue billed to business entities in Singapore did not involve physical shipments into Singapore.
-120	found in [20]	20	It is common practice for global entities to centralise the billing for procured goods and services in their hubs, but this is separate from where the products are shipped to.
-140	found in [4]	4	Most of the shipments associated with Singapore revenue went to either the United States or Taiwan in the first quarter of fiscal year 2025. Shipments to Singapore were insignificant.
-144	found in [25]	25	Most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant.
-148	found in [5]	5	Most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant.
-152	found in [18]	18	Singapore represented 18% of fiscal year 2025 total revenue based upon customer billing location. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Shipments to Singapore were less than 2% of fiscal year 2025 total revenue.
-156	found in [7]	7	Singapore represented 20% of the first quarter of fiscal year 2026 total revenue based upon customer billing location. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Over 99% of controlled Data Center compute revenue billed to Singapore was for orders from U.S.-based customers.
-160	found in [2]	2	Singapore represented 22%, and 21% of the second quarter and first half of fiscal year 2026 total revenue based upon customer billing location, respectively. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Over 99% of controlled Data Center compute revenue billed to Singapore was for orders from U.S.-based customers for the second quarter and first half of fiscal year 2026.
-170	found in [1] (repeated away from its marker)	9	stopped publishing, by the way, they stopped publishing [sic]
-174	found in [1] (repeated away from its marker)	9,26	And you can see from the Nvidia accounts — which they stopped publishing, by the way, they stopped publishing
-188	found in [28]	28,29	Revenue from the tiny city state of Singapore grew even faster – from $562 million in 2022 to $2.7 billion in 2023.
-192	found in [30]	30	One tiny country drove 15% of Nvidia's revenue – here's why it needs so many chips
-196	found in [31]	31	Nvidia clarified that such country revenue figures may not reflect actual shipments.
-202	found in [33]	33	Nvidia's reported revenue from Singapore exploded in the wake of the U.S. export controls
-204	found in [33]	4,33	all of the purchased chips
-216	found in [36]	36	bought advanced Nvidia semiconductors through third parties in Singapore
-218	found in [37]	37	Singapore represented 22% of Nvidia's revenue... Countries like Singapore should be subject to strict licensing requirements
-222	found in [38] (same words; punctuation or quotation marks differ)	38	Our public filings report 'bill to' not 'ship to' locations of our customers.
-228	found in [39]	39	makes the Republic the biggest buyer of its chips after the US
-230	found in [40]	40	Nvidia's Singapore GPU sales are 28% of its revenue, but only 1% are delivered to the country
-234	found in [20]	20	This reflects the location where Nvidia's customers received the bill; it does not mean that it was shipped here
-240	found in [41]	41	indicate that Singapore is the destination for a significant portion of its sales
-242	found in [41]	41	Following the imposition of U.S. export controls on certain Nvidia chips, this trend flips.
-246	found in [42]	42	Our reported Singapore revenue indicates the billing address
-250	found in [45]	45	The bill-to versus ship-to Singapore matter has been reported extensively.
-264	found in [9]	9	Previously, revenue by geographic area was reported based on the billing location of our customers, which often reflected a customer's centralized invoicing location, even though our products were almost always shipped elsewhere. We believe changing to revenue based upon the location of our customers' headquarters provides a better representation of the geographic profile of our revenue. Prior period information has been recast to reflect this change.
-268	his own words (an imagined remark, or a phrase he sets in quotation marks)		We have been doing this for two years. They keep accusing us of shipping everything to Singapore. It never ends, even though we've explained it a million times. Let's just list the headquarters are the country for revenue.
-360	his own words (an imagined remark, or a phrase he sets in quotation marks)		get ahead of the story
-362	his own words (an imagined remark, or a phrase he sets in quotation marks)		promoting closed models
-362	his own words (an imagined remark, or a phrase he sets in quotation marks)		Promoting closed models
+15	found in [1]	1	And you can see from the Nvidia accounts — which they stopped publishing, by the way, they stopped publishing — their Chinese sales crashed, and then the Singaporean sales went through the roof. And I've seen reporting that only 1% of the chips sold in Singapore remained in Singapore.
+19	found in [1],[27] (repeated away from its marker; same words, punctuation differs)	2	their Chinese sales crashed and then the Singaporean sales went through the roof.
+23	"WORDS DIFFER: the filing reads ""the U.S. government, or USG, informed us"" [2]"	2	In April 2025, the U.S. government informed us that a license is required for exports of our H20 product into the China market.
+33	found in [1],[27] (repeated away from its marker)	8	went through the roof
+41	found in [1],[27] (repeated away from its marker; same words, punctuation differs)	8	their Chinese sales crashed and then the Singaporean sales went through the roof
+96	found in [1] (repeated away from its marker)		I've seen reporting that only 1% of the chips sold in Singapore remained in Singapore.
+104	found in [1],[27] (repeated away from its marker)	19,20	I've seen reporting
+110	found in [19]	19	Our checks indicate that physical delivery of products sold by Nvidia to Singapore represent less than 1% of Nvidiaʼs overall revenue. These are mainly deployed in Singapore for major enterprises and the Singapore government. We understand that the remainder of Nvidiaʼs revenue billed to business entities in Singapore did not involve physical shipments into Singapore.
+118	found in [20]	20	It is common practice for global entities to centralise the billing for procured goods and services in their hubs, but this is separate from where the products are shipped to.
+138	found in [4]	4	Most of the shipments associated with Singapore revenue went to either the United States or Taiwan in the first quarter of fiscal year 2025. Shipments to Singapore were insignificant.
+142	found in [25]	25	Most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant.
+146	found in [5]	5	Most shipments associated with Singapore revenue were to locations other than Singapore and shipments to Singapore were insignificant.
+150	found in [18]	18	Singapore represented 18% of fiscal year 2025 total revenue based upon customer billing location. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Shipments to Singapore were less than 2% of fiscal year 2025 total revenue.
+154	found in [7]	7	Singapore represented 20% of the first quarter of fiscal year 2026 total revenue based upon customer billing location. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Over 99% of controlled Data Center compute revenue billed to Singapore was for orders from U.S.-based customers.
+158	found in [2]	2	Singapore represented 22%, and 21% of the second quarter and first half of fiscal year 2026 total revenue based upon customer billing location, respectively. Customers use Singapore to centralize invoicing while our products are almost always shipped elsewhere. Over 99% of controlled Data Center compute revenue billed to Singapore was for orders from U.S.-based customers for the second quarter and first half of fiscal year 2026.
+168	found in [1] (repeated away from its marker)	9	stopped publishing, by the way, they stopped publishing [sic]
+172	found in [1] (repeated away from its marker)	9,26	And you can see from the Nvidia accounts — which they stopped publishing, by the way, they stopped publishing
+186	found in [28]	28,29	Revenue from the tiny city state of Singapore grew even faster – from $562 million in 2022 to $2.7 billion in 2023.
+190	found in [30]	30	One tiny country drove 15% of Nvidia's revenue – here's why it needs so many chips
+194	found in [31]	31	Nvidia clarified that such country revenue figures may not reflect actual shipments.
+200	found in [33]	33	Nvidia's reported revenue from Singapore exploded in the wake of the U.S. export controls
+202	found in [33]	4,33	all of the purchased chips
+214	found in [36]	36	bought advanced Nvidia semiconductors through third parties in Singapore
+216	found in [37]	37	Singapore represented 22% of Nvidia's revenue... Countries like Singapore should be subject to strict licensing requirements
+220	found in [38] (same words; punctuation or quotation marks differ)	38	Our public filings report 'bill to' not 'ship to' locations of our customers.
+226	found in [39]	39	makes the Republic the biggest buyer of its chips after the US
+228	found in [40]	40	Nvidia's Singapore GPU sales are 28% of its revenue, but only 1% are delivered to the country
+232	found in [20]	20	This reflects the location where Nvidia's customers received the bill; it does not mean that it was shipped here
+238	found in [41]	41	indicate that Singapore is the destination for a significant portion of its sales
+240	found in [41]	41	Following the imposition of U.S. export controls on certain Nvidia chips, this trend flips.
+244	found in [42]	42	Our reported Singapore revenue indicates the billing address
+248	found in [45]	45	The bill-to versus ship-to Singapore matter has been reported extensively.
+262	found in [9]	9	Previously, revenue by geographic area was reported based on the billing location of our customers, which often reflected a customer's centralized invoicing location, even though our products were almost always shipped elsewhere. We believe changing to revenue based upon the location of our customers' headquarters provides a better representation of the geographic profile of our revenue. Prior period information has been recast to reflect this change.
+266	his own words (an imagined remark, or a phrase he sets in quotation marks)		We have been doing this for two years. They keep accusing us of shipping everything to Singapore. It never ends, even though we've explained it a million times. Let's just list the headquarters are the country for revenue.
+358	his own words (an imagined remark, or a phrase he sets in quotation marks)		get ahead of the story
+360	his own words (an imagined remark, or a phrase he sets in quotation marks)		promoting closed models
+360	his own words (an imagined remark, or a phrase he sets in quotation marks)		Promoting closed models

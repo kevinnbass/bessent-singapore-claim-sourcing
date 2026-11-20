@@ -5,6 +5,9 @@ crashing and its Singaporean sales going "through the roof", that Nvidia "stoppe
 reporting that only 1% of the chips sold in Singapore remained there. This repository holds a post that goes through
 those 21 seconds, the documents it cites, and the data behind its figure and tables.
 
+The post was published on X on Nov 19, 2026: https://x.com/kevinnbass/status/2123219344976941482. The text here is
+the text as published; the reference list is below it in `post/POST_with_references.txt`.
+
 ## What is here
 
 | Folder | What it holds |
